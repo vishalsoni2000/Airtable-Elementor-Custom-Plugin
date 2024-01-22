@@ -1,0 +1,3673 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+.snacknation_home_dual_intent #footer-outer{
+    display: none!important;
+}
+.snacknation_home_dual_intent #header-space {
+    height: 0!important;
+}
+body, * {
+    font-family: "Nunito" !important;
+}
+.snacknation_home_dual_intent p {
+    padding-bottom: 0;
+}
+/* Header start */
+.snacknation_home_dual_intent #header-outer header .container {
+    padding: 25px!important;
+}
+.snacknation_home_dual_intent #header-outer header #logo {
+    margin-top: 0!important;
+    margin-bottom: 0!important;
+}
+.snacknation_home_dual_intent #header-outer header #logo img {
+    max-width: 234px!important;
+    height: 35px!important;
+    width: 100%!important;
+}
+#header-outer[data-lhe="animated_underline"] #top nav > ul > li > a {
+    margin-left: 12px;
+    margin-right: 13px;
+}
+.snacknation_home_dual_intent #header-outer header#top nav > ul > .button_solid_color_2 > a {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    color: #365ABD!important;
+}
+.snacknation_home_dual_intent #header-outer header#top nav > ul > .button_solid_color_2 > a::before {
+    border: 1px solid #365ABD;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    height: 38px!important;
+    background-color: transparent!important;
+}
+.snacknation_home_dual_intent #header-outer header#top nav > ul > .button_solid_color_2 > a:hover {
+    color: #fff!important;
+}
+.snacknation_home_dual_intent #header-outer header#top nav > ul > .button_solid_color_2 > a:hover::before {
+    background-color: #365ABD!important;
+    opacity: 1!important;
+}
+/* Header end */
+.snacknation_home_dual_intent .hero_section {
+    margin-top: 112px;
+}
+.snacknation_home_dual_intent .container {
+    max-width: 1428px;
+    width: 100%;
+}
+/* Hero section start */
+/* Single review CSS */
+
+.snacknation_home_dual_intent .hero_single_review {
+    margin-bottom: 16px;
+    margin-top: 11px;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+.snacknation_home_dual_intent .hero_single_review .hero_review_wrapper img {
+    max-width: 74px;
+    height: 15px;
+    margin: 0 auto 4px;
+}
+.snacknation_home_dual_intent .hero_single_review .hero_review_wrapper {
+    padding: 0 14px;
+}
+.snacknation_home_dual_intent .hero_single_review .hero_review_wrapper p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #2E2E33;
+    padding-bottom: 0;
+    margin-left: 8px;
+}
+body.spz_home_v-2.snacknation_home_dual_intent .hero_single_review .hero_review_wrapper p {
+    max-width: 100%;
+    display: block;
+    width: auto;
+    font-style: italic;
+}
+@media screen and (max-width:991px) {
+    .snacknation_home_dual_intent .hero_single_review .hero_review_wrapper {
+        justify-content: center;
+    }
+}
+@media screen and (max-width:767px) {
+    .snacknation_home_dual_intent .hero_single_review .hero_review_wrapper p {
+        font-size: 14px;
+        line-height: 18px;
+        padding: 0;
+    }
+    .snacknation_home_dual_intent .hero_single_review .hero_review_wrapper {
+        max-width: 96px;
+        width: 100%;
+    }
+    .snacknation_home_dual_intent .hero_single_review {
+        margin-bottom: 21px;
+    }
+}
+@media screen and (max-width:360px) {
+    .snacknation_home_dual_intent .hero_single_review .hero_review_wrapper {
+        padding: 0px;
+    }
+}
+
+/* Single review CSS end */
+.snacknation_home_dual_intent .hero_row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.snacknation_home_dual_intent .tab_img, .snacknation_home_dual_intent .mobile_img {
+    display: none;
+} 
+.snacknation_home_dual_intent .hero_section .hero_inner{
+    padding-top: 3px;
+    padding-bottom: 56px;
+    background-image: url('//snacknation.com/wp-content/uploads/2021/09/hero_bg_desk_min.png');
+    background-position: bottom;
+    background-size: 100% 382px;
+    background-repeat: no-repeat;
+}
+.snacknation_home_dual_intent .hero_section .hero_row {
+    max-width: 1376px;
+    width: 100%;
+    padding: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-align: start;
+        -ms-flex-align: start;
+            align-items: flex-start;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+}
+.snacknation_home_dual_intent .hero_section .hero_left_sec {
+    max-width: 43%;
+    width: 100%;
+    padding-left: 64px;
+    padding-right: 0px;
+    padding-top: 0;
+}
+.snacknation_home_dual_intent .everyone_loved_top_sec {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto 12px 0;
+} 
+.snacknation_home_dual_intent .inner_everyone_loved ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: 0;
+    text-align: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-bottom: 5px;
+}
+.snacknation_home_dual_intent .inner_everyone_loved ul li {
+    list-style-type: none;
+}
+.snacknation_home_dual_intent .inner_everyone_loved ul li img {
+    max-width: 13px;
+    width: 100%;
+    margin: 2px 1px;
+}
+.snacknation_home_dual_intent .hero_section .inner_everyone_loved p {
+    font-size: 16px;
+    line-height: 28px;
+    text-align: left;
+    font-style: italic;
+}
+.snacknation_home_dual_intent .hero_section .hero_left_sec h1{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    color: #2E2E33;
+    margin-bottom: 16px;
+}
+.snacknation_home_dual_intent .hero_section .hero_left_sec h1.tablet_only {
+    display: none;
+}
+.snacknation_home_dual_intent .hero_left_sec p {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #2E2E33;
+    padding-bottom: 8px;
+    text-align: left;
+}
+.snacknation_home_dual_intent .hero_btn {
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+.snacknation_home_dual_intent .box_price{
+    border-radius: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 66px;
+    text-align: center;
+    display: block;
+    transition: 0.4s all;
+    -webkit-transition: 0.4s all;
+    -o-transition: 0.4s all;
+    -ms-transition: 0.4s all;
+    cursor: pointer;
+    background: #3464B5;
+    color: #fff;
+    max-width: 342px;
+    width: 100%;
+    height: 64px;
+}
+.snacknation_home_dual_intent .box_price:hover,
+.snacknation_home_dual_intent .box_price:focus {
+    background-color: #C27582 ;
+    outline: none;
+}
+.snacknation_home_dual_intent .quiz_wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.snacknation_home_dual_intent .quiz_wrapper p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #2E2E33;
+    max-width: 235px;
+    width: 100%;
+    padding-bottom: 0;
+}
+.snacknation_home_dual_intent .quiz_wrapper>p {
+    border-right: 1px solid #EFEBE6;
+    padding: 5px 17px 5px 0;
+    margin-right: 15px;
+    max-width: 253px;
+    width: 100%;
+}
+.snacknation_home_dual_intent .quiz_wrapper>p br {
+    display: none;
+}
+.snacknation_home_dual_intent .meals_donated_wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.snacknation_home_dual_intent .meals_donated {
+    /* border-left: 1px solid #EFEBE6;
+    padding: 10px 0 10px 14px; 
+    margin-left: 11px;*/
+    margin-right: 20px; 
+}
+.snacknation_home_dual_intent .quiz_wrapper p.donate_count{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #2E2E33;
+    text-align: left;
+}
+.snacknation_home_dual_intent .quiz_wrapper p.donate_text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E2E33;
+    text-align: left;
+    margin-top: 4px;
+}
+.snacknation_home_dual_intent .quiz_wrapper img {
+    max-width: 112px;
+    width: 100%;
+}
+
+
+.snacknation_home_dual_intent .hero_section .hero_right_sec {
+    max-width: 50.9%;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 50px;
+    margin-right: 14px;
+}
+.snacknation_home_dual_intent img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+/* Hero section end */
+
+/* thoughtful snack gift section start */
+.snacknation_home_dual_intent .thoughtful_snack_gift_section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.snacknation_home_dual_intent .social_proof_section {
+    padding-top: 36px;
+    padding-bottom: 35px;
+    border-bottom: 1px solid #EFEBE6;
+}
+.snacknation_home_dual_intent .social_proof_section .container {
+    max-width: 1430px;
+    width: 100%;
+}
+.snacknation_home_dual_intent .social_proof_inner {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+}
+.snacknation_home_dual_intent .social_proof_inner img {
+    height: 48px;
+    width: auto;
+}
+.snacknation_home_dual_intent .section_title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #2E2E33;
+    max-width: 712px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+}
+.snacknation_home_dual_intent .section_subtitle{
+    max-width: 712px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #2E2E33;
+}
+.snacknation_home_dual_intent .gift_flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-top: 12px;
+}
+.snacknation_home_dual_intent .gift_wrapper {
+    max-width: calc(33.33% - 76px);
+    max-width: -moz-calc(33.33% - 76px);
+    max-width: -webkit-calc(33.33% - 76px);
+    max-width: -o-calc(33.33% - 76px);
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    margin-bottom: 28px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+}
+.snacknation_home_dual_intent .gift_img {
+    width: 100%;
+    height: auto;
+}
+.snacknation_home_dual_intent .gift_wrapper h4 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #2E2E33;
+    margin-top: 9px;
+}
+.snacknation_home_dual_intent .gift_wrapper p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #2E2E33;
+    padding-bottom: 8px;
+}
+.snacknation_home_dual_intent .section_bottom_part {
+    max-width: 340px;
+    width: 100%;
+    margin: 0 auto;
+}
+.snacknation_home_dual_intent .section_bottom_part .box_price{
+    margin: 20px auto 16px;
+    height: 68px;
+    line-height: 68px;  
+}
+.snacknation_home_dual_intent .section_bottom_part p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #2E2E33;
+    max-width: 340px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* thoughtful snack gift section end */
+
+/* office snack section start */
+
+.snacknation_home_dual_intent .snack_gift_flex_wrapper_tablet_only {
+    display: none;
+}
+.snacknation_home_dual_intent .office_snacks_section {
+    background: #F1F7FA;
+    padding-top: 80px;
+    padding-bottom: 79px;
+}
+.snacknation_home_dual_intent .office_snacks_section .section_subtitle {
+    max-width: 1024px;
+    width: 100%;
+}
+.snacknation_home_dual_intent .snack_gift_flex_wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-top: 51px;
+    margin-bottom: 0;
+}
+.snacknation_home_dual_intent .single_item {
+    max-width: 276px;
+    width: 100%;
+    margin-right: 48px;
+    padding-top: 5px;
+}
+.snacknation_home_dual_intent .single_item .mobile_only_img {
+    display: none;
+}
+.snacknation_home_dual_intent .item_img img {
+    border-radius: 24px;
+}
+.snacknation_home_dual_intent .item_name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #2E2E33;
+    z-index: 1;
+    position: relative;
+    width: 100%;
+    max-width: 188px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 26px;
+    margin-bottom: 0;
+}
+.snacknation_home_dual_intent .single_item .item_name {
+    margin-top: 13px;
+}
+.snacknation_home_dual_intent .multi_item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    width: 100%;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+}
+.snacknation_home_dual_intent .multi_item .gift_item_wrapper {
+    max-width: calc(33.33% - 31.63px);
+    max-width: -moz-calc(33.33% - 31.63px);
+    max-width: -webkit-calc(33.33% - 31.63px);
+    max-width: -o-calc(33.33% - 31.63px);
+    width: 100%;
+    position: relative;
+    margin-bottom: 34px;
+}
+.snacknation_home_dual_intent .multi_item .item_img img {
+    position: relative;
+    z-index: 1;
+    max-width: 236px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.snacknation_home_dual_intent .multi_item .item_img {
+    position: relative;
+    height: 156px;
+}
+.snacknation_home_dual_intent .multi_item .item_img:after{
+    content: '';
+    position: absolute;
+    height: 71%;
+    width: 100%;
+    background: #FFFFFF;
+    border-radius: 24px;
+    z-index: 0;
+    top: auto;
+    bottom: -13px;
+}
+.snacknation_home_dual_intent .section_bottom_part {
+    max-width: 342px;
+    width: 100%;
+}
+.snacknation_home_dual_intent .office_snacks_section .section_bottom_part .box_price {
+    margin-bottom: 17px;
+    max-width: 342px;
+    width: 100%;
+    margin-top: 35px;
+}
+.snacknation_home_dual_intent .office_snacks_section .section_bottom_part p {
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    max-width: 342px;
+    width: 100%;
+}
+/* office snack section end */
+
+/* personalized gift section start */
+.snacknation_home_dual_intent .personalized_gift_boxes {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.snacknation_home_dual_intent .personalized_gift_boxes .section_subtitle {
+    max-width: 1024px;
+    width: 100%;
+}
+.snacknation_home_dual_intent .personalized_gift_boxes .snack_gift_flex_wrapper {
+    margin-top: 58px;
+}
+.snacknation_home_dual_intent .personalized_gift_boxes .single_item {
+    margin-right: 0;
+    margin-left: 46px;
+}
+.snacknation_home_dual_intent .personalized_gift_boxes .multi_item .item_img:after {
+    background: #F5F3EE;
+    bottom: -14px;
+}
+.snacknation_home_dual_intent .personalized_gift_boxes .item_name {
+    margin-top: 27px;
+}
+.snacknation_home_dual_intent .personalized_gift_boxes .multi_item .gift_item_wrapper {
+    margin-bottom: 33px;
+}
+.snacknation_home_dual_intent .personalized_gift_boxes .single_item .item_name {
+    margin-top: 13px;
+}
+.snacknation_home_dual_intent .personalized_gift_boxes .section_bottom_part .box_price {
+    margin-top: 34px;
+}
+
+/* personalized gift section end */
+
+/* thoughtful client and corporate section start */
+.snacknation_home_dual_intent .thoughtful_client_corporate_gift_section {
+    background: #F5F3EE;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .section_title {
+    max-width: 1024px;
+    width: 100%;
+}
+.snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .section_subtitle {
+    max-width: 602px;
+    width: 100%;
+}
+.snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .gift_flex {
+    margin-top: 36px;
+}
+.snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .section_bottom_part .box_price {
+    margin-top: 12px;
+}
+
+/* thoughtful client and corporate section end */
+
+/* Custom Swap section start */
+.snacknation_home_dual_intent .customswaps_sec {
+    padding-top: 78px;
+    padding-bottom: 77px;
+}
+.snacknation_home_dual_intent .customswaps_sec .section_title {
+    max-width: 1024px;
+    width: 100%;
+    margin-bottom: 48px;
+}
+.snacknation_home_dual_intent .customswaps_sec .section_title sup{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2E2E33;
+    position: relative;
+    top: -4px;
+    left: -2px;
+}
+.snacknation_home_dual_intent .card_wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+}
+.snacknation_home_dual_intent .card {
+    max-width: calc(33.33% - 54px);
+    max-width: -moz-calc(33.33% - 54px);
+    max-width: -webkit-calc(33.33% - 54px);
+    max-width: -o-calc(33.33% - 54px);
+    width: 100%;
+}
+.snacknation_home_dual_intent .card img {
+    width: 100%;
+    border-radius: 12px 36px;
+}
+.snacknation_home_dual_intent .customswaps_sec .card_wrapper .center_card {
+    margin:0 15px;
+}
+.snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_text {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 100%;
+    width: 100%;
+    margin-left: 6px;
+    margin-top: 12px;
+}
+.snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_index {
+    position: relative;
+    z-index: 2;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 46px;
+    font-family: ProzaDisplayExtraBold;
+    color: #2E2E33;
+}
+.snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_index span {
+    width: 32px;
+    height: 32px;
+    background: rgba(44, 213, 196, 0.5);
+    border-radius: 4px 12px;
+    position: absolute;
+    top: 20px;
+    left: -7px;
+    z-index: -1;
+}
+.snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_textpara p {
+    margin: 18px 0 0 11px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #2E2E33;
+    letter-spacing: 0;
+}
+.snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_text .text_para2 p {
+    max-width: 300px;
+    width: 100%;
+}
+.snacknation_home_dual_intent .customswaps_sec .section_bottom_part .box_price {
+    margin-top: 48px;
+}
+/* Custom Swap section end */
+
+/* custom branding start */
+.snacknation_home_dual_intent .custom_branding {
+    background-color: #E1EEF4;
+    background-image: url('//snacknation.com/wp-content/uploads/2021/09/custom_branding_bg.png');
+    background-size: contain;
+    background-position: right -146px center;
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    min-height: 640px;
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+.snacknation_home_dual_intent .custom_branding::before {
+    content: "";
+    background-image: url('//snacknation.com/wp-content/uploads/2021/09/custom_branding_curve_desk.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+    max-width: 870px;
+    width: 100%;
+    height: 100%;
+    display: block;
+    right: 39.6%;
+    top: 0;
+}
+.snacknation_home_dual_intent .inner_custom_branding  {
+    width: 100%;
+    max-width: 480px;
+    width: 100%;
+    margin-left: 3px;
+    position: relative;
+}
+.snacknation_home_dual_intent .custom_branding .title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    color: #2E2E33;
+    margin-bottom: 0;
+}
+.snacknation_home_dual_intent .custom_branding .subtitle {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #2E2E33;
+    margin-bottom: 36px;
+    margin-top: 24px;
+    padding-bottom: 0;
+}
+.snacknation_home_dual_intent .custom_branding .box_price {
+    max-width: 300px;
+    width: 100%;
+    height: 68px;
+    line-height: 68px;
+}
+
+@media screen and (min-width:1600px) {
+    .snacknation_home_dual_intent .custom_branding {
+        /* background-size: 50% 100%; */
+        background-position: right;
+    }
+    .snacknation_home_dual_intent .custom_branding::before {
+        right: 37.6%;
+    }
+}
+
+@media screen and (min-width:1930px) {
+    .snacknation_home_dual_intent .custom_branding {
+        background-size: 52% 100%;
+        background-position: right;
+    }
+    .snacknation_home_dual_intent .custom_branding::before {
+        right: 36.6%;
+    }
+}
+/* custom branding end */
+
+/* Review section start */
+.snacknation_home_dual_intent .customer_review {
+    padding-top: 79px;
+    background: #F5F3EE;
+    padding-bottom: 96px;
+}
+.snacknation_home_dual_intent .customer_review .section_title, 
+.snacknation_home_dual_intent .customer_review .section_subtitle {
+    max-width: 1024px;
+    width: 100%;
+}
+.snacknation_home_dual_intent .customer_review_box{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+}
+.snacknation_home_dual_intent .customer_review .review_box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -ms-flex-flow: row wrap;
+        flex-flow: row wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    margin-top: 36px;
+}
+.snacknation_home_dual_intent .customer_review .review_box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: start;
+        -ms-flex-pack: start;
+            justify-content: flex-start;
+    margin-top: 48px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    max-width: calc(33.33% - 43px);
+    max-width: -moz-calc(33.33% - 43px);
+    max-width: -webkit-calc(33.33% - 43px);
+    max-width: -o-calc(33.33% - 43px);
+    width: 100%;
+    padding: 26px 20px 20px;
+}
+.snacknation_home_dual_intent .customer_review .customer_images {
+    width: 132px;
+    margin: 0 auto 16px;
+}
+/* .snacknation_home_dual_intent .review_content,
+.snacknation_home_dual_intent .gift_details {
+    -webkit-box-flex: 1;
+        -ms-flex: 1 0 auto;
+            flex: 1 0 auto;
+} */
+.snacknation_home_dual_intent .customer_review ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-left: 0;
+    text-align: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-bottom: 15px;
+}
+.snacknation_home_dual_intent .customer_review ul li {
+    list-style-type: none;
+}
+.snacknation_home_dual_intent .customer_review ul li img {
+    width: 100%;
+    max-width: 18px;
+    width: 100%;
+    margin: 3px 2.7px;
+}
+.snacknation_home_dual_intent .customer_review .review_content p {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #3D3D3D;
+    padding-bottom: 0;
+    margin: 0 auto 16px;
+}
+.snacknation_home_dual_intent .customer_review .customer_name p {   
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #3D3D3D;
+}
+/* Review section end */
+
+/* SnackNation Team start */
+.snacknation_home_dual_intent .snacknation_team {
+    background-color: #E1EEF4;
+    background-image: url('//snacknation.com/wp-content/uploads/2021/09/snacknation_team.jpg');
+    background-size: contain;
+    background-position: left -174px center;
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    min-height: 640px;
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    overflow: hidden;
+    position: relative;
+}
+.snacknation_home_dual_intent .snacknation_team::before {
+    content: "";
+    background-image: url('//snacknation.com/wp-content/uploads/2021/09/custom_branding_curve_desk.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+    max-width: 870px;
+    width: 100%;
+    height: 100%;
+    display: block;
+    left: 39.6%;
+    top: 0;
+    -webkit-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+            transform: rotate(180deg);
+}
+.snacknation_home_dual_intent .inner_snacknation_team  {
+    width: 100%;
+    max-width: 480px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: 3px;
+    position: relative;
+}
+.snacknation_home_dual_intent .snacknation_team .title {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    color: #2E2E33;
+    margin-bottom: 0;
+}
+.snacknation_home_dual_intent .snacknation_team .subtitle {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #2E2E33;
+    margin-bottom: 36px;
+    margin-top: 24px;
+    padding-bottom: 0;
+}
+.snacknation_home_dual_intent .snacknation_team .box_price {
+    max-width: 300px;
+    width: 100%;
+    height: 68px;
+    line-height: 68px;
+}
+
+@media screen and (min-width:1600px) {
+    .snacknation_home_dual_intent .snacknation_team {
+        /* background-size: 50% 100%; */
+        background-position: left -64px center;
+    }
+    .snacknation_home_dual_intent .snacknation_team::before {
+        left: 41.6%;
+    }
+}
+
+@media screen and (min-width:1930px) {
+    .snacknation_home_dual_intent .snacknation_team {
+        /* background-size: 52% 100%; */
+        background-position: left;
+    }
+    .snacknation_home_dual_intent .snacknation_team::before {
+        /* left: 34.6%; */
+        left: 36.6%;
+    }
+}
+@media screen and (min-width:2450px) {
+    .snacknation_home_dual_intent .snacknation_team {
+        background-size: 52% 120%;
+        background-position: left -140px center;
+    }
+    .snacknation_home_dual_intent .snacknation_team::before {
+        left: 34.6%;
+    }
+    .snacknation_home_dual_intent .custom_branding {
+        background-size: 52% 152%;
+        background-position: top -34px right 0;
+    }
+}
+@media screen and (min-width:2580px) {
+    .snacknation_home_dual_intent .snacknation_team {
+        background-size: 49% 130%;
+        background-position: left -140px top -36px;
+    }
+}
+@media screen and (min-width:3000px) {
+    .snacknation_home_dual_intent .snacknation_team {
+        background-size: 44% 155%;
+        background-position: left -140px top -36px;
+    }
+}
+/* SnackNation Team end */
+
+/* Footer Section start */
+.snacknation_home_dual_intent #footer {
+    background: #313233;
+    padding-top: 48px;
+}
+.snacknation_home_dual_intent .footer_logo img {
+    max-width: 321px;
+    width: 100%;
+}
+.snacknation_home_dual_intent #footer .footer_links .links {
+    margin-left: 0;
+    margin-top: 37px;
+}
+.snacknation_home_dual_intent #footer .footer_links .links li {
+    list-style: none;
+    margin-bottom: 16px;
+}
+.snacknation_home_dual_intent #footer li a{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.snacknation_home_dual_intent #footer li a:hover {
+    opacity: 0.65;
+}
+.snacknation_home_dual_intent .copyright_text {
+    margin-top: 34px;
+    padding-top: 13px;
+    padding-bottom: 17px;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+.snacknation_home_dual_intent .copyright_text p {
+    font-family: Mulish!important;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 22px;
+    color: #C4C4C4;
+}
+/* Footer Section end */
+
+
+/* Responsive  */
+
+@media screen and (max-width:1250px) {
+    /* Hero Section */
+    .snacknation_home_dual_intent .hero_section .hero_left_sec {
+        max-width: 51.3%;
+        padding-left: 15px;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_right_sec {
+        max-width: 48%;
+        margin-right: 0;
+    }
+    .snacknation_home_dual_intent .container {
+        padding: 0 15px;
+    }
+    /* Thoughtfull snack gift section */
+    .snacknation_home_dual_intent .gift_wrapper {
+        max-width: calc(33.33% - 40px);
+        max-width: -moz-calc(33.33% - 40px);
+        max-width: -webkit-calc(33.33% - 40px);
+        max-width: -o-calc(33.33% - 40px);
+    }
+    .snacknation_home_dual_intent .single_item {
+        max-width: 263px;
+    }
+
+    /* Office snacks section */
+    .snacknation_home_dual_intent .office_snacks_section .section_subtitle br {
+        display: none;
+    }
+    .snacknation_home_dual_intent .multi_item .item_img {
+        height: 146px;
+    }
+
+    /* Client Review section */
+    .snacknation_home_dual_intent .customer_review .review_box ,
+    .snacknation_home_dual_intent .card {
+        max-width: calc(33.33% - 15px);
+        max-width: -moz-calc(33.33% - 15px);
+        max-width: -webkit-calc(33.33% - 15px);
+        max-width: -o-calc(33.33% - 15px);
+    }
+
+    /* SnackNation Team */
+    .snacknation_home_dual_intent .snacknation_team {
+        background-size: cover;
+        background-position: left -220px center;
+    }
+    .snacknation_home_dual_intent .snacknation_team::before {
+        left: 35%;
+    }
+}
+@media screen and (max-width:1199px) {
+    /* Hero section */
+    .snacknation_home_dual_intent .hero_section .hero_left_sec h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+}
+
+@media screen and (max-width:1100px) {
+    /* header */
+    #header-outer[data-lhe="animated_underline"] #top nav > ul > li > a {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+    /* Hero section */
+    /* .snacknation_home_dual_intent .hero_section .hero_left_sec h1 {
+        font-size: 39px;
+        line-height: 44px;
+    } */
+    .snacknation_home_dual_intent .hero_left_sec>p br {
+        display: none;
+    }
+
+    /* Office snacks section */
+    .snacknation_home_dual_intent .multi_item .item_img {
+        height: 136px;
+    }
+    .snacknation_home_dual_intent .single_item {
+        max-width: 250px;
+    }
+
+    /* Custom Branding section */
+    .snacknation_home_dual_intent .custom_branding {
+        background-size: cover;
+        background-position: right -225px center;
+    }
+    .snacknation_home_dual_intent .custom_branding::before {
+        right: 33.6%;
+    }
+    .snacknation_home_dual_intent .custom_branding .container{
+        margin-left: 0;
+    }
+
+    /* SnackNation Team */
+    .snacknation_home_dual_intent .snacknation_team {
+        background-size: cover;
+        background-position: left -220px center;
+    }
+    .snacknation_home_dual_intent .snacknation_team::before {
+        left: 28%;
+    }
+    .snacknation_home_dual_intent .snacknation_team .container{
+        margin-right: 0;
+    }
+    
+}
+
+@media screen and (max-width:1035px) {
+    /* Office snacks section */
+    /* .snacknation_home_dual_intent .multi_item .item_img {
+        height: 120px;
+    } */
+    .snacknation_home_dual_intent .single_item {
+        max-width: 250px;
+        margin-right: 31px;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .single_item {
+        margin-right: 0;
+        margin-left: 31px;
+    }
+    .snacknation_home_dual_intent .multi_item .gift_item_wrapper {
+        max-width: calc(33.33% - 21px);
+        max-width: -moz-calc(33.33% - 21px);
+        max-width: -webkit-calc(33.33% - 21px);
+        max-width: -o-calc(33.33% - 21px);
+    }
+
+    /* Thoughtful client and gift box section */
+    .snacknation_home_dual_intent .thoughtful_snack_gift_section .gift_wrapper:first-child br,
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .gift_wrapper:first-child br{
+        display: none;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    /* header */
+    body.snacknation_home_dual_intent #header-outer {
+        padding: 0;
+    }
+    .snacknation_home_dual_intent #header-outer header #logo img {
+        max-width: 213px!important;
+    }
+    .snacknation_home_dual_intent #header-outer header .container {
+        padding: 8px 15px!important;
+    }
+}
+
+@media (max-width:991px) {
+    body.snacknation_home_dual_intent #top #logo img,
+    body.snacknation_home_dual_intent #header-outer[data-permanent-transparent="false"] #logo .dark-version {
+        height: 32px!important;
+    }
+    .snacknation_home_dual_intent .container {
+        max-width: 726px;
+    }
+    /* Hero section */
+    .snacknation_home_dual_intent .hero_section .hero_inner {
+        padding-bottom: 63px;
+        background-image: url('//snacknation.com/wp-content/uploads/2021/09/hero_bg_tab.png');
+        background-size: 100% 359px;
+    }
+    .snacknation_home_dual_intent .hero_section {
+        margin-top: 82px;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_row {
+        max-width: 741px;
+        padding: 0 15px;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_left_sec,
+    .snacknation_home_dual_intent .hero_section .hero_right_sec {
+        max-width: 100%;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_left_sec {
+        padding-left: 0;
+    }
+    .snacknation_home_dual_intent .everyone_loved_top_sec {
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_left_sec h1 {
+        display: none;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_left_sec h1.tablet_only {
+        display: block;
+        text-align: center;
+        font-size: 40px;
+        line-height: 50px;
+        max-width: 601px;
+        margin-left: auto;
+        margin-right: auto;
+        letter-spacing: -0.6px;
+        font-style: normal;
+        font-weight: 800;
+        color: #2E2E33;
+        margin-bottom: 20px;
+    }
+    .snacknation_home_dual_intent .hero_left_sec p {
+        text-align: center;
+    }
+    .snacknation_home_dual_intent .hero_left_sec>p br {
+        display: block;
+    }
+    .snacknation_home_dual_intent .box_price {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .snacknation_home_dual_intent .quiz_wrapper {
+        max-width: 571px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .snacknation_home_dual_intent .quiz_wrapper>p {
+        padding: 5px 26px 5px 0;
+        margin-right: 8px;
+        max-width: 50%;
+    }
+    .snacknation_home_dual_intent .meals_donated_wrapper {
+        max-width: 49%;
+        width: 100%;
+        padding-left: 14px;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_right_sec {
+        margin-top: 34px;
+    }
+
+    /* Social Proof section */
+    .snacknation_home_dual_intent .social_proof_section {
+        padding-top: 40px;
+        padding-bottom: 7px;
+    }
+    .snacknation_home_dual_intent .social_proof_inner {
+        max-width: 697px;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .snacknation_home_dual_intent .social_proof_inner>div {
+        max-width: 232px;
+        width: 100%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        margin-bottom: 32px;
+    }
+    .snacknation_home_dual_intent .social_proof_inner img {
+        width: auto;
+    }
+
+    /* Thoughtfull snack gift section */
+    .snacknation_home_dual_intent .thoughtful_snack_gift_section {
+        padding-bottom: 63px;
+    }
+    .snacknation_home_dual_intent .gift_wrapper {
+        max-width: calc(50% - 8px);
+        max-width: -moz-calc(50% - 8px);
+        max-width: -webkit-calc(50% - 8px);
+        max-width: -o-calc(50% - 8px);
+    } 
+
+    /* Office snacks section */
+    .snacknation_home_dual_intent .office_snacks_section .section_subtitle br {
+        display: block;
+    }
+    .snacknation_home_dual_intent .snack_gift_flex_wrapper.desktop {
+        display: none;
+    }
+    .snacknation_home_dual_intent .snack_gift_flex_wrapper_tablet_only {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        margin-top: 43px;
+    }
+    .snacknation_home_dual_intent .snack_gift_left,
+    .snacknation_home_dual_intent .snack_gift_right {
+        max-width: calc(50% - 28px);
+        max-width: -moz-calc(50% - 28px);
+        max-width: -webkit-calc(50% - 28px);
+        max-width: -o-calc(50% - 28px);
+        width: 100%;
+    }
+    .snacknation_home_dual_intent .gift_item_wrapper {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: start;
+            -ms-flex-pack: start;
+                justify-content: flex-start;
+        margin-bottom: 35px;
+    }
+    .snacknation_home_dual_intent .gift_item_wrapper.large_image {
+        padding-top: 5px;
+    }
+    .snacknation_home_dual_intent .large_image .item_img {
+        height: auto;
+    }
+    .snacknation_home_dual_intent .large_image .item_img img {
+        max-width: 100%;
+        height: auto;
+    }
+    .snacknation_home_dual_intent.appleOS .large_image .item_img img {
+        height: 100%;
+    }
+    .snacknation_home_dual_intent .item_img img {
+        max-width: 236px
+    }
+    .snacknation_home_dual_intent .large_image .item_name {
+        margin-top: 13px;
+    }
+    .snacknation_home_dual_intent .item_img {
+        /* height: 179px; */
+        height: 100%;
+        max-width: 236px;
+        max-width: 100%;
+        width: 100%;
+        position: relative;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        z-index: 0;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .snacknation_home_dual_intent .snack_gift_flex_wrapper_tablet_only .item_img::after {
+        content: '';
+        position: absolute;
+        height: 62%;
+        width: 100%;
+        background: #FFFFFF;
+        border-radius: 24px;
+        z-index: -1;
+        top: auto;
+        bottom: 10px;
+    }
+    .snacknation_home_dual_intent .snack_gift_flex_wrapper_tablet_only .large_image .item_img::after {
+        display: none;
+    }
+    .snacknation_home_dual_intent .item_name {
+        margin-top: 3px;
+        max-width: 100%;
+    }
+    .snacknation_home_dual_intent .office_snacks_section .section_bottom_part .box_price {
+        margin-top: 56px;
+    }
+
+    /* personalized gift section */
+    .snacknation_home_dual_intent .personalized_gift_boxes .section_subtitle {
+        max-width: 665px;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .section_subtitle br {
+        display: none;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .item_img:after {
+        background: #F5F3EE;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .item_name {
+        margin-top: 3px;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .large_image .item_name {
+        margin-top: 13px;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .section_bottom_part .box_price {
+        margin-top: 56px;
+    }
+
+    /* thoughtful client and corporate section */
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .section_title {
+        max-width: 525px;
+    }
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .section_subtitle {
+        max-width: 614px;
+    }
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .gift_flex {
+        margin-top: 16px;
+    }
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .gift_wrapper:first-child br {
+        display: block;
+    }
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .section_bottom_part .box_price {
+        margin-top: 20px;
+    }
+
+    /* customSwap section */
+    .snacknation_home_dual_intent .customswaps_sec {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .section_title {
+        max-width: 644px;
+        margin-bottom: 38px;
+    }
+    .snacknation_home_dual_intent .card_wrapper {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .snacknation_home_dual_intent .customer_review .review_box, 
+    .snacknation_home_dual_intent .card {
+        max-width: 100%;
+        width: 100%;
+        padding-left: 2px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        margin-bottom: 37px;
+    }
+    .snacknation_home_dual_intent .card .card_img {
+        max-width: 337px;
+    } 
+    .snacknation_home_dual_intent .card img {
+        border-radius: 10px 34px;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_text {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        max-width: 302px;
+        width: 100%;
+        margin-left: 15px;
+        margin-top: 0;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_index {
+        margin-top: 0;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_textpara p {
+        line-height: 26px;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .card_wrapper .center_card {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 39px;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .section_bottom_part .box_price {
+        margin-top: 20px;
+    }
+
+    /* Custom branding section */
+    .snacknation_home_dual_intent .custom_branding {
+        background-size: contain;
+        padding-top: 360px;
+        background-position: top;
+        background-image: url('//snacknation.com/wp-content/uploads/2021/09/custom_branding_bg_tab-1.png');
+    }
+    .snacknation_home_dual_intent .custom_branding::before {
+        right: auto;
+        background-image: url('//snacknation.com/wp-content/uploads/2021/09/custom_branding_curve_tab.png');
+        top: 294px;
+        max-width: 100%;
+    }
+    .snacknation_home_dual_intent .custom_branding .container {
+        margin-left: auto;
+    }
+    .snacknation_home_dual_intent .inner_custom_branding {
+        width: 100%;
+        max-width: 100%;
+        margin-left: 0;
+        padding-top: 36px;
+        padding-bottom: 80px;
+    }
+    .snacknation_home_dual_intent .custom_branding .title,
+    .snacknation_home_dual_intent .custom_branding .subtitle {
+        text-align: center;
+    }
+
+    /* customer review section */
+    .snacknation_home_dual_intent .customer_review {
+        padding-top: 64px;
+        padding-bottom: 72px;
+    }
+    .snacknation_home_dual_intent .customer_review_box {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        margin-top: 48px;
+    }
+    .snacknation_home_dual_intent .customer_review .review_box {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+                flex-direction: row;
+        -webkit-box-align: start;
+            -ms-flex-align: start;
+                align-items: flex-start;
+        padding: 26px 32px 26px 26px;
+        margin-top: 0;
+        margin-bottom: 24px;
+    }
+    .snacknation_home_dual_intent .customer_review .customer_images {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+    .snacknation_home_dual_intent .customer_review .review_content {
+        max-width: 480px;
+    }
+    .snacknation_home_dual_intent .customer_review ul {
+        -webkit-box-pack: start;
+            -ms-flex-pack: start;
+                justify-content: flex-start;
+        margin-bottom: 12px;
+    }
+    .snacknation_home_dual_intent .customer_review ul li img {
+        max-width: 18px;
+        margin: 2px 2px;
+    }
+    .snacknation_home_dual_intent .customer_review .review_content p {
+        text-align: left;
+        letter-spacing: -0.1px;
+        margin-bottom: 12px;
+    }
+    .snacknation_home_dual_intent .customer_review .customer_name p {
+        text-align: left;
+        margin-bottom: 0;
+    }
+
+    /* Custom branding section */
+    .snacknation_home_dual_intent .snacknation_team {
+        background-size: contain;
+        padding-top: 360px;
+        background-position: top;
+        background-image: url('////snacknation.com/wp-content/uploads/2021/09/snacknation_team_tab-1.png');
+    }
+    .snacknation_home_dual_intent .snacknation_team::before {
+        right: auto;
+        background-image: url('//snacknation.com/wp-content/uploads/2021/09/custom_branding_curve_tab.png');
+        top: 294px;
+        left: auto;
+        -webkit-transform: none;
+            -ms-transform: none;
+                transform: none;
+        max-width: 100%;
+    }
+    .snacknation_home_dual_intent .snacknation_team .container {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .snacknation_home_dual_intent .inner_snacknation_team {
+        width: 100%;
+        max-width: 100%;
+        margin-left: 0;
+        padding-top: 36px;
+        padding-bottom: 80px;
+    }
+    .snacknation_home_dual_intent .snacknation_team .title,
+    .snacknation_home_dual_intent .snacknation_team .subtitle {
+        text-align: center;
+    }
+}
+
+@media (max-width:767px) {
+    .snacknation_home_dual_intent .social_proof_section .container,
+    .snacknation_home_dual_intent .hero_section .hero_row, 
+    .snacknation_home_dual_intent .container {
+        max-width: 425px;
+    }
+    /* Hero Section */
+    .snacknation_home_dual_intent .hero_section {
+        margin-top: 48px;
+    } 
+    .snacknation_home_dual_intent .hero_section .hero_inner {
+        padding-top: 23px;
+        padding-bottom: 36px;
+        background-image: url('//snacknation.com/wp-content/uploads/2021/09/hero_bg_mob.png');
+        background-size: 100% 196px;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_row,
+    .snacknation_home_dual_intent .container {
+        padding: 0 16px;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_row {
+        padding: 0 24px;
+    }
+    .snacknation_home_dual_intent .everyone_loved_top_sec {
+        max-width: 288px;
+    }
+    .snacknation_home_dual_intent .hero_section  .inner_everyone_loved {
+        max-width: 96px;
+    }
+    .snacknation_home_dual_intent .hero_section .inner_everyone_loved p {
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_left_sec h1.tablet_only {
+        font-size: 32px;
+        line-height: 40px;
+        max-width: 300px;
+        margin-bottom: 15px;
+    }
+    .snacknation_home_dual_intent .hero_left_sec>p br {
+        display: none;
+    }
+    .snacknation_home_dual_intent .hero_btn {
+        margin-top: 16px;
+        margin-bottom: 24px;
+    }
+    .snacknation_home_dual_intent .box_price {
+        height: 56px;
+        line-height: 56px; 
+    }
+    .snacknation_home_dual_intent .quiz_wrapper {
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .snacknation_home_dual_intent .quiz_wrapper>p {
+        max-width: 100%;
+        padding: 0 0 24px;
+        margin-right: 0;
+        border-right: 0;
+        border-bottom: 1px solid #EFEBE6;
+        margin-bottom: 24px;
+    }
+    .snacknation_home_dual_intent .quiz_wrapper>p br {
+        display: block;
+    }
+    .snacknation_home_dual_intent .meals_donated_wrapper {
+        max-width: 100%;
+        padding-left: 0;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .snacknation_home_dual_intent .hero_section .hero_right_sec {
+        margin-top: 15px;
+    }
+
+    /* Social proof section */
+    .snacknation_home_dual_intent .social_proof_section {
+        padding-top: 38px;
+        padding-bottom: 13px;
+    }
+    .snacknation_home_dual_intent .social_proof_inner>div {
+        max-width: 164px;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        margin-bottom: 24px;
+    }
+    .snacknation_home_dual_intent .social_proof_inner img {
+        height: 36px;
+    }
+
+    /* thoughtful snack and gift section */
+    .snacknation_home_dual_intent .thoughtful_snack_gift_section {
+        padding-top: 37px;
+        padding-bottom: 64px;
+    }
+    .snacknation_home_dual_intent .section_title {
+        font-size: 32px;
+        line-height: 40px;
+        margin-bottom: 16px;
+        max-width: 328px;
+    }
+    .snacknation_home_dual_intent .section_subtitle {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .snacknation_home_dual_intent .gift_flex {
+        margin-top: 15px;
+    }
+    .snacknation_home_dual_intent .gift_wrapper {
+        max-width: 100%;
+        margin-bottom: 16px;
+    }
+    .snacknation_home_dual_intent .gift_wrapper h4 {
+        margin-top: 1px;
+    }
+    .snacknation_home_dual_intent .gift_wrapper p {
+        letter-spacing: -0.1px;
+    }
+    .snacknation_home_dual_intent .section_bottom_part .box_price {
+        margin-top: 24px;
+    }
+
+    /* Office snack section */
+    .snacknation_home_dual_intent .office_snacks_section {
+        padding-top: 65px;
+        padding-bottom: 63px;
+    }
+    .snacknation_home_dual_intent .snack_gift_flex_wrapper_tablet_only {
+        display: none;
+    }
+    .snacknation_home_dual_intent .snack_gift_flex_wrapper.desktop {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        margin-top: 30px;
+    }
+    .snacknation_home_dual_intent .single_item .desktop_only_img {
+        display: none;
+    }
+    .snacknation_home_dual_intent .single_item .mobile_only_img {
+        display: block;
+        max-width: 100%;
+    }
+    .snacknation_home_dual_intent .single_item {
+        max-width: 100%;
+        margin-right: 0;
+    }
+    .snacknation_home_dual_intent .single_item .item_img {
+        height: 252px;
+    }
+    .snacknation_home_dual_intent .single_item .item_name {
+        margin-top: 12px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .snacknation_home_dual_intent .multi_item {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .snacknation_home_dual_intent .multi_item .gift_item_wrapper {
+        max-width: calc(50% - 8px);
+        max-width: -moz-calc(50% - 8px);
+        max-width: -webkit-calc(50% - 8px);
+        max-width: -o-calc(50% - 8px);
+        margin-bottom: 33px;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .snacknation_home_dual_intent .gift_item_wrapper {
+        margin-bottom: 33px;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .snacknation_home_dual_intent .multi_item .item_img {
+        height: 119px;
+    }
+    .snacknation_home_dual_intent .multi_item .item_img:after {
+        bottom: 0px;
+    }
+    .snacknation_home_dual_intent .item_name {
+        margin-top: 12px;
+        max-width: 100%;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .snacknation_home_dual_intent .multi_item .gift_item_wrapper:nth-child(odd) {
+        margin-right: 8px;
+    }
+    .snacknation_home_dual_intent .multi_item .gift_item_wrapper:nth-child(even) {
+        margin-left: 8px;
+    }
+    .snacknation_home_dual_intent .multi_item .gift_item_wrapper:last-child {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+    .snacknation_home_dual_intent .office_snacks_section .section_bottom_part .box_price {
+        margin-top: 15px;
+    }
+    .snacknation_home_dual_intent .office_snacks_section .section_bottom_part p {
+        line-height: 24px;
+        letter-spacing: 0;
+    }
+
+    /* personalized gift section */
+    .snacknation_home_dual_intent .personalized_gift_boxes {
+        padding-top: 65px;
+        padding-bottom: 64px;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .snack_gift_flex_wrapper.desktop {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+            -ms-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .single_item {
+        margin-left: 0;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .multi_item .item_img {
+        height: 127px;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .multi_item .item_img:after {
+        bottom: 9px;
+        height: 66%;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .multi_item .gift_item_wrapper {
+        margin-bottom: 34px;
+    }
+    .snacknation_home_dual_intent .personalized_gift_boxes .section_bottom_part .box_price {
+        margin-top: 14px;
+    }
+
+    /* thoughtful client and corporate section */
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section {
+        padding-top: 65px;
+        padding-bottom: 64px;
+    }
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .section_title {
+        letter-spacing: -0.2px;
+        max-width: 328px;
+    }
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .gift_flex {
+        margin-top: 15px;
+    }
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .gift_wrapper {
+        margin-bottom: 29px;
+    }
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .gift_wrapper h4 {
+        margin-top: 8px;
+    }
+    .snacknation_home_dual_intent .thoughtful_client_corporate_gift_section .section_bottom_part .box_price {
+        margin-top: 11px;
+    }
+
+    /* custom swap section */
+    .snacknation_home_dual_intent .customswaps_sec {
+        padding-top: 65px;
+        padding-bottom: 80px;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .section_title {
+        margin-bottom: 37px;
+        max-width: 328px;
+    }
+    .snacknation_home_dual_intent .card {
+        padding-left: 2px;
+        padding-right: 2px;
+        justify-content: center;
+            -webkit-box-pack: center;
+                -ms-flex-pack: center;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_text {
+        max-width: 320px;
+        margin-left: 5px;
+        margin-top: 7px;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_textpara p {
+        margin: 20px 0 0 10px;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .card_wrapper .card_index {
+        margin-top: 2px;
+    }
+    .snacknation_home_dual_intent .card,
+    .snacknation_home_dual_intent .customswaps_sec .card_wrapper .center_card {
+        margin-bottom: 38px;
+    }
+    .snacknation_home_dual_intent .customswaps_sec .section_bottom_part .box_price {
+        margin-top: 10px;
+    }
+
+    /* custom branding */
+    .snacknation_home_dual_intent .custom_branding {
+        padding-top: 226px;
+        display: block;
+        min-height: 633px;
+        position: relative;
+    }
+    .snacknation_home_dual_intent .custom_branding::before {
+        top: 189px;
+    }
+    .snacknation_home_dual_intent .inner_custom_branding {
+        padding-top: 25px;
+    }
+    .snacknation_home_dual_intent .custom_branding .title {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .snacknation_home_dual_intent .custom_branding .subtitle {
+        font-size: 20px;
+        line-height: 28px;
+        margin: 16px auto;
+        max-width: 311px;
+    }
+    .snacknation_home_dual_intent .custom_branding .box_price {
+        max-width: 100%;
+    }
+
+    /* customer review section */
+    .snacknation_home_dual_intent .customer_review {
+        padding-top: 64px;
+        padding-bottom: 64px;
+    }
+    .snacknation_home_dual_intent .customer_review .section_title {
+        max-width: 273px;
+    }
+    .snacknation_home_dual_intent .customer_review_box {
+        margin-top: 32px;
+    }
+    .snacknation_home_dual_intent .customer_review .customer_images {
+        width: 80px;
+    }
+    .snacknation_home_dual_intent .customer_review .review_box {
+        padding: 16px 0;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        margin-bottom: 16px;
+    }
+    .snacknation_home_dual_intent .customer_review .review_content {
+        max-width: 200px;
+        margin-left: 16px;
+    }
+    .snacknation_home_dual_intent .customer_review ul li img {
+        max-width: 17px;
+        margin: 3px 3px;
+    }
+    .snacknation_home_dual_intent .customer_review ul {
+        margin-bottom: 7px;
+    }
+    .snacknation_home_dual_intent .customer_review .review_content p {
+        margin-bottom: 8px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .snacknation_home_dual_intent .customer_review .customer_name p {
+        margin-bottom: 0;
+    }
+
+    /* snacknation team */
+    .snacknation_home_dual_intent .snacknation_team {
+        display: block;
+        padding-top: 224px;
+        background-position: top;
+        background-image: url('//snacknation.com/wp-content/uploads/2021/09/snacknation_team_tab-1.png');
+        min-height: auto;
+    }
+    .snacknation_home_dual_intent .snacknation_team::before {
+        top: 189px;
+        background-image: url('//snacknation.com/wp-content/uploads/2021/09/custom_branding_curve_mob.png');
+        background-size: 100%;
+    }
+    .snacknation_home_dual_intent .snacknation_team .title {
+        font-size: 32px;
+        line-height: 40px;
+        max-width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .snacknation_home_dual_intent .snacknation_team .subtitle {
+        max-width: 300px;
+        margin: 16px auto 15px;
+    }
+    .snacknation_home_dual_intent .snacknation_team .box_price {
+        max-width: 100%;
+    }
+    .snacknation_home_dual_intent .inner_snacknation_team {
+        padding-top: 42px;
+    }
+    .snacknation_home_dual_intent .snacknation_team .subtitle {
+        max-width: 288px;
+    }
+
+    /* Footer */
+    .snacknation_home_dual_intent #footer {
+        padding-top: 36px;
+    }
+}
+@media screen and (max-width:525px) {
+    .snacknation_home_dual_intent .snacknation_team::before,
+    .snacknation_home_dual_intent .custom_branding::before {
+        top: 175px;
+    }
+    .snacknation_home_dual_intent .snacknation_team,
+    .snacknation_home_dual_intent .custom_branding {
+        padding-top: 205px;
+    }
+}
+@media screen and (max-width:425px) {
+    .snacknation_home_dual_intent .snacknation_team::before,
+    .snacknation_home_dual_intent .custom_branding::before {
+        top: 138px;
+    }
+    .snacknation_home_dual_intent .custom_branding {
+        padding-top: 185px;
+    }
+    .snacknation_home_dual_intent .snacknation_team {
+        padding-top: 162px;
+    }
+}
+@media screen and (max-width:360.98px) {
+    .snacknation_home_dual_intent .snacknation_team {
+        padding-top: 152px;
+    }
+    .snacknation_home_dual_intent .snacknation_team::before {
+        top: 138px;
+    }
+    .snacknation_home_dual_intent .custom_branding {
+        padding-top: 169px;
+    }
+    .snacknation_home_dual_intent .custom_branding::before {
+        top: 138px;
+    }
+}
+@media screen and (max-width:359px){
+    /* social proof section */
+    .snacknation_home_dual_intent .social_proof_inner {
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    .snacknation_home_dual_intent .social_proof_inner>div {
+        max-width: 134px;
+    }
+    .snacknation_home_dual_intent #slide-out-widget-area .off-canvas-menu-container {
+        padding: 0;
+    }
+    /* customer review */
+    .snacknation_home_dual_intent .customer_review .review_box {
+        padding: 16px 10px;
+        -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+    }
+    .snacknation_home_dual_intent .customer_review .review_content {
+        max-width: 175px;
+        width: 100%;
+    }
+    .snacknation_home_dual_intent .snacknation_team::before,
+    .snacknation_home_dual_intent .custom_branding::before {
+        top: 121px;
+    }
+}
+
+.snacknation_home_dual_intent #slide-out-widget-area.fullscreen .inner-wrap, 
+.snacknation_home_dual_intent #slide-out-widget-area.fullscreen-alt .inner-wrap {
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+/* Device rotate  */
+@media (orientation: landscape) {
+    .snacknation_home_dual_intent #slide-out-widget-area.fullscreen .inner, 
+    .snacknation_home_dual_intent #slide-out-widget-area.fullscreen-alt .inner {
+        top: 64px;
+    }
+}
+
+/* popup */
+.snacknation_home_dual_intent .ub-emb-container iframe.ub-emb-iframe {
+    display: none!important;
+}
+
+/* IE CSS */ 
+
+_:-ms-lang(x), .snacknation_home_dual_intent .snacknation_team, 
+_:-ms-lang(x), .snacknation_home_dual_intent .custom_branding {
+    height: 640px;
+}
+_:-ms-lang(x), .snacknation_home_dual_intent .customer_review .review_box,
+_:-ms-lang(x), .snacknation_home_dual_intent .gift_wrapper {
+    display: block;
+}
+_:-ms-lang(x), .snacknation_home_dual_intent .page_content{
+    overflow-y: hidden;
+}
+_:-ms-lang(x), .snacknation_home_dual_intent .multi_item {
+    max-width: 924px;
+}
+
+/* for remote Desing All Css end  */
+@media (-ms-high-contrast: active), (-ms-high-contrast: none) {
+    .hero-section,.product-info,.product-box{
+        overflow: hidden;
+    }
+    .product-box{
+        padding-top: 50px;
+        margin-top: -40px;
+    }
+}
+.spz_home_v-2 .hero_section .hero_right_sec, .spz_home_v-2 .social_proof_section {
+    display: none;
+}
+body.spz_home_v-2 #header-outer header .container {
+    padding: 3px 27px !important;
+}
+body.spz_home_v-2 .hero_section .hero_inner {
+    background: none;
+    padding-bottom: 19px;
+}
+body.spz_home_v-2 .hero_section .hero_left_sec {
+    max-width: 830px;
+    padding: 0;
+    margin: 0 auto;
+}
+body.spz_home_v-2 .hero_section .hero_left_sec .hero_btn, body.spz_home_v-2 .hero_section .hero_left_sec .quiz_wrapper, body.spz_home_v-2 .hero_section .hero_left_sec p br, body.spz_home_v-2 .hero_section .hero_left_sec h1.tablet_only {
+    display: none !important;
+}
+body.spz_home_v-2 .hero_section .hero_left_sec .everyone_loved_top_sec {
+    margin: 0 auto;
+}
+body.spz_home_v-2 .hero_section .hero_left_sec .everyone_loved_top_sec p {
+    margin-top: -2px;
+}
+body.spz_home_v-2 .hero_section .hero_left_sec h1, body.spz_home_v-2 .hero_section .hero_left_sec p {
+    text-align: center;
+}
+body.spz_home_v-2 .hero_section .hero_left_sec h1 {
+    margin-top: 8px;
+    margin-bottom: 24px;
+    display: block !important;
+}
+body.spz_home_v-2 .hero_section .hero_left_sec p {
+    width: 100%;
+    max-width: 715px;
+    margin: 0 auto;
+}
+body.spz_home_v-2 .hero_section .hero_left_sec p b {
+    font-weight: 700;
+}
+/* Tabs */
+
+.spz_home_v-2 #tabs-nav {
+    margin: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    top: 43px;
+    z-index: 1;
+}
+
+.spz_home_v-2 #tabs-nav li {
+    list-style-type: none;
+    max-width: 362px;
+    width: 100%;
+    height: 85px;
+}
+
+.spz_home_v-2 #tabs-nav li.active a {
+    background: #3464B5;
+    font-weight: bold;
+    color: #fff;
+}
+.spz_home_v-2 #tabs-nav li.active a:hover {
+    background: #5276b3;
+}
+.spz_home_v-2 #tabs-nav li.active a svg path {
+    fill: #fff;
+}
+
+.spz_home_v-2 #tabs-nav li a {
+    width: 100%;
+    height: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    background-color: #fff;
+    color: #2E2E33;
+    outline: 0;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.spz_home_v-2 #tabs-nav li a:hover {
+    background: #3464B5;
+    color: #fff;
+    font-weight: bold;
+}
+
+body.spz_home_v-2.acsb-keynav [data-acsb-focused=true] {
+    outline: none !important
+}
+
+.spz_home_v-2 #tabs-nav li:first-child a {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.spz_home_v-2 .heart-icon {
+    height: 16px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    top: -8px;
+}
+
+.spz_home_v-2 #tabs-nav li:last-child a {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.spz_home_v-2 #tabs-content {
+    background: #EFF6F9;
+    min-height: 961px;
+}
+
+.spz_home_v-2 .tab-content {
+    padding: 100px 0 43px;
+    position: relative;
+    height: auto;
+    min-height: 961px;
+}
+
+.spz_home_v-2 .tabs.plan_tabs {
+    position: relative;
+}
+
+/* Tabs End */
+
+/* Benefit Block */
+
+.spz_home_v-2 .benefit .img-wrapper {
+    max-width: 110px;
+    height: 110px;
+    margin-bottom: 14px;
+}
+
+.spz_home_v-2 .benefit .heading {
+    font-family: 'Kalam', cursive !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: #2E2E33;
+    letter-spacing: 0.08em;
+    text-shadow: 1px 1px #2E2E33;
+}
+
+.spz_home_v-2 .benefit .text {
+    font-family: 'Kalam', cursive !important;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+    color: #2E2E33;
+    width: 100%;
+    max-width: 264px;
+    margin-left: auto;
+    /*text-align: left;*/
+}
+
+.spz_home_v-2 .benefit {
+    max-width: 275px;
+}
+
+.spz_home_v-2 .benefit.right-align {
+    text-align: right;
+    margin-left: 22px;
+}
+
+.spz_home_v-2 .benefit.right-align.custom-padding-top {
+    padding-top: 15px;
+}
+
+.spz_home_v-2 .benefit.right-align .img-wrapper {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.spz_home_v-2 .benefit.left-align {
+    text-align: left;
+    margin-right: 22px;
+}
+
+.spz_home_v-2 .benefit.left-align.cust-top {
+    padding-top: 7px;
+}
+
+.spz_home_v-2 .benefit.left-align .img-wrapper {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.spz_home_v-2 #tabs-content .row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+    position: absolute;
+    top: 91px;
+    max-width: 1286px;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+.spz_home_v-2 #tabs-content #Client-Gifting .row {
+    top: 69px;
+}
+
+.spz_home_v-2 #In-Office-Snacks .row {
+    top: 71px;
+}
+
+.spz_home_v-2 #In-Office-Snacks .row .benefit.right-align .heading {
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.spz_home_v-2 #In-Office-Snacks.tab-content .row.second-row {
+    top: 556px;
+}
+
+.spz_home_v-2 #tabs-content.tab-content .row.second-row {
+    top: 579px;
+}
+
+.spz_home_v-2 #tabs-content #Client-Gifting .row.second-row {
+    top: 553px;
+}
+
+.spz_home_v-2 #In-Office-Snacks .main-img-wrapper {
+    position: relative;
+    top: 124px;
+    left: -13px;
+}
+
+.spz_home_v-2 #tabs-content #Employee-Gifting .row.second-row {
+    top: 607px;
+}
+
+.spz_home_v-2 .arrow {
+    height: 103px;
+    width: 103px;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 50%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+    position: absolute;
+    z-index: 1;
+    top: 375px;
+    padding: 0 29px;
+}
+
+.spz_home_v-2 .arrow:hover {
+    background: rgba(255, 255, 255, 1);
+}
+
+.spz_home_v-2 .arrow img {
+    width: 48px;
+    height: 23px;
+}
+
+.spz_home_v-2 .arrow.left-arrow {
+    right: auto;
+    left: 129px;
+}
+.spz_home_v-2 .arrow.left-arrow img {
+    margin-left: -6px;
+}
+.spz_home_v-2 .arrow.right-arrow {
+    left: auto;
+    right: 128px;
+}
+.spz_home_v-2 .arrow.right-arrow img {
+    margin-right: -6px;
+}
+.spz_home_v-2 .main-img-content {
+    position: relative;
+    max-width: 1503px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    top: -59px;
+    left: 0;
+    right: 0;
+}
+
+.spz_home_v-2 .main-img-wrapper {
+    max-width: 1503px;
+    margin: auto;
+}
+
+.spz_home_v-2 #Employee-Gifting .main-img-wrapper {
+    max-width: 809px;
+    position: relative;
+    top: 92px;
+    left: 10px;
+}
+
+.spz_home_v-2 #Client-Gifting .main-img-wrapper {
+    max-width: 1010px;
+    position: relative;
+    left: 9px;
+    top: 88px;
+}
+
+.spz_home_v-2 #In-Office-Snacks .main-img-wrapper {
+    max-width: 750px;
+}
+
+.spz_home_v-2 a.see-box-pricing-cta {
+    background: #3464B5;
+    border-radius: 64px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    max-width: 342px;
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    min-height: 64px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin: auto;
+    -webkit-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+    position: relative;
+    height: 56px;
+    margin-bottom: 16px;
+}
+.spz_home_v-2 #Client-Gifting a.see-box-pricing-cta {
+    margin-top: 0;
+}
+
+.spz_home_v-2 #In-Office-Snacks a.see-box-pricing-cta {
+    margin-top: 0;
+}
+.spz_home_v-2 a.see-box-pricing-cta:hover, .spz_home_v-2 a.see-box-pricing-cta:focus, .spz_home_v-2 a.see-box-pricing-cta:active {
+    background-color: #C27582;
+}
+.spz_home_v-2 .bottom-block .bottom_description {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #2E2E33;
+    width: 100%;
+    max-width: 306px;
+    margin: 0 auto 48px;
+}
+.spz_home_v-2 #tabs-content {
+    position: relative;
+}
+
+.spz_home_v-2 .material .wpb_row, .spz_home_v-2 .material .wpb_content_element, .material .wpb_row, .material .wpb_content_element {
+    margin-bottom: 0;
+}
+.spz_home_v-2 #tabs-nav li:first-child a path {
+    fill: #E37588;
+}
+.spz_home_v-2 #tabs-nav li:first-child a:hover path {
+    fill: #fff;
+}
+.spz_home_v-2 .feeding-block {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.spz_home_v-2 .feeding-block .left-block {
+    max-width: 235px;
+    margin-right: 16px; 
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E2E33;
+}
+.spz_home_v-2 .feeding-block .right-block {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.spz_home_v-2 .feeding-block .right-block .stat-block {
+    padding-right: 21px;
+}
+.spz_home_v-2 .feeding-block .right-block .img-wrapper {
+    max-width: 128px;
+    height: 82px;
+    width: 100%;
+    margin-left: 21px;
+    position: relative;
+}
+.spz_home_v-2 .feeding-block .right-block .img-wrapper::before {
+    position: absolute;
+    content: "";
+    left: -21px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1px;
+    height: 72px;
+    background-color: rgba(0, 0, 0, 0.12);
+}
+.spz_home_v-2 .feeding-block .stat {
+    font-family: 'Muli';
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #2E2E33;
+    margin-bottom: 4px !important;
+}
+.spz_home_v-2 .feeding-block .donated {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2E2E33;
+    padding-bottom: 0;
+}
+/* Benefit Block End */
+
+#header-outer[data-transparent-header="true"].transparent>header #logo img.dark-version, #header-outer[data-transparent-header="true"].light-text>header #logo img.dark-version, #header-outer[data-transparent-header="true"].transparent.dark-slide>header #logo img, #header-outer[data-transparent-header="true"].dark-text>header #logo img, #header-outer[data-transparent-header="true"].dark-text.side-widget-open>header #logo img.dark-version {
+    opacity: 1 !important;
+}
+.spz_home_v-2 #top .span_9{
+    margin-top: 0;
+}
+.spz_home_v-2 #top .container .row{
+    height: 80.55px;
+}
+.spz_home_v-2 .bottom-block {
+    width: 100%;
+    max-width: 342px;
+    margin: 0 auto;
+}
+.spz_home_v-2 #Employee-Gifting .bottom-block{
+    margin-top: 90px;
+}
+.spz_home_v-2 #Client-Gifting .bottom-block{
+    margin-top: 80px;
+}
+.spz_home_v-2 #In-Office-Snacks .bottom-block {
+    margin-top: 160px;
+}
+.spz_home_v-2 .tab-section .container:before, 
+.spz_home_v-2 .tab-section .container:after, 
+.spz_home_v-2 .tab-section .container-fluid:before, 
+.spz_home_v-2 .tab-section .container-fluid:after, 
+.spz_home_v-2 .tab-section .row:before,
+.spz_home_v-2 .tab-section .row:after,
+.spz_home_v-2 .tab-section .modal-footer:before,
+.spz_home_v-2 .tab-section .modal-footer:after,
+.spz_home_v-2 .tab-section .vc_row:before,
+.spz_home_v-2 .tab-section .vc_row:after {
+    content: none;
+}
+.spz_home_v-2 #footer-outer #footer-widgets .row {
+    width: 100%;
+    display: inline-block;
+}
+#header-outer[data-transparent-header="true"].transparent>header #logo img.dark-version, #header-outer[data-transparent-header="true"].light-text>header #logo img.dark-version, #header-outer[data-transparent-header="true"].transparent.dark-slide>header #logo img, #header-outer[data-transparent-header="true"].dark-text>header #logo img, #header-outer[data-transparent-header="true"].dark-text.side-widget-open>header #logo img.dark-version {
+    opacity: 0 !important;
+}
+.spz_home_v-2 .tab-indicator-wrapper {
+    position: relative;
+}
+.spz_home_v-2 .custom-container {
+    max-width: 1280px;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+.spz_home_v-2 .start-txt {
+    font-family: Schoolbell !important;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px #2e2e33;
+    color: #2e2e33;
+    -webkit-transform: rotate(-8.63deg);
+    -ms-transform: rotate(-8.63deg);
+    transform: rotate(-8.63deg);
+    display: inline;
+    position: absolute;
+    padding-left: 31px;
+    margin-top: -14px;
+}
+.spz_home_v-2 .start-txt::before {
+    content: "";
+    background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/3023%20%7C%20SnackNation/Curve-Arrow.png);
+    height: 63px;
+    width: 101px;
+    position: absolute;
+    right: -117px;
+    top: 22px;
+    transform: rotate(11deg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.mobile-only, .tablet-only, .desktop-only {
+    display: none!important;
+}
+@media all and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+    .spz_home_v-2 #Employee-Gifting .main-img-wrapper {
+        max-width: 700px;
+    }
+}
+@media (max-width: 1299px) {
+    .spz_home_v-2 .main-img-content {
+        top: 0;
+    }
+    .spz_home_v-2 #Client-Gifting .main-img-wrapper {
+        max-width: 710px;
+    }
+    .spz_home_v-2 #Employee-Gifting .main-img-wrapper, .spz_home_v-2 #Client-Gifting .main-img-wrapper{
+        max-width: 700px;
+        left: 0;
+        top: 0;
+    }
+    .spz_home_v-2 .bottom-block{
+        margin-top: 0;
+    }
+    .spz_home_v-2 #tabs-content .row{
+        padding: 0 10px;
+    }
+    .spz_home_v-2 #Employee-Gifting .bottom-block{
+        margin-top: 160px;
+    }
+    .spz_home_v-2 #Client-Gifting .bottom-block {
+        margin-top: 350px;
+    }
+    .spz_home_v-2 #In-Office-Snacks .main-img-wrapper{
+        top: 0;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1299px) {
+    .spz_home_v-2 #Employee-Gifting .main-img-wrapper {
+        max-width: 570px;
+    }
+    .spz_home_v-2 #Client-Gifting .main-img-wrapper {
+        top: 100px;
+        max-width: 830px;
+    }
+    .spz_home_v-2 #In-Office-Snacks .main-img-wrapper {
+        max-width: 660px;
+    }
+}
+@media (max-width:1199.98px) {
+    .spz_home_v-2 #tabs-nav li {
+        max-width: 300px;
+    }
+    .spz_home_v-2 .arrow.left-arrow {
+        left: 85px;
+    }
+    .spz_home_v-2 .arrow.right-arrow {
+        right: 85px;
+    }
+    .spz_home_v-2 #Employee-Gifting .main-img-wrapper{
+        max-width: 592px;
+        top: 100px;
+        left: 0;
+    }
+    .spz_home_v-2 #Employee-Gifting .bottom-block {
+    margin-top: 280px;
+    }
+    .spz_home_v-2 #Client-Gifting .main-img-wrapper {
+        max-width: 630px;
+        top: 167px;
+    }
+    .spz_home_v-2 #In-Office-Snacks .main-img-wrapper {
+        max-width: 560px;
+        top: 120px;
+    }
+    .spz_home_v-2 #Employee-Gifting a.see-box-pricing-cta {
+        top: 0;
+        margin-top: 0px;
+    }
+    .spz_home_v-2 #Client-Gifting a.see-box-pricing-cta {
+        top: 0;
+        margin-top: 280px;
+    }
+    .spz_home_v-2 #In-Office-Snacks a.see-box-pricing-cta {
+        top: 0;
+        margin-top: 410px;
+    }
+    body.spz_home_v-2 .hero-subtext {
+        max-width: 940px;
+    }
+    .spz_home_v-2 .hero-section {
+        margin-top: 130px;
+    }
+    .spz_home_v-2 .bottom-block{
+        margin-top: -11px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1060px) {
+    .spz_home_v-2 #In-Office-Snacks .main-img-wrapper {
+        max-width: 450px;
+        top: 170px;
+    }
+}
+@media only screen and (min-width: 690px) and (max-width: 999px) {
+    .container {
+        max-width: 90%;
+    }
+}
+@media(min-width: 992px) {
+    .desktop-only {
+        display: block!important;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .tablet-only {
+        display: block!important;
+    }
+}
+@media (max-width:991px) {
+    .spz_home_v-2 .hero-title {
+        max-width: 656px;
+        margin: 11px auto 19px;
+        line-height: 64px;
+    }
+    body.spz_home_v-2 .hero_section .hero_inner {
+        padding-top: 6px;
+        padding-bottom: 42px;
+    }
+    body.spz_home_v-2 .hero_section .hero_left_sec h1 {
+        font-size: 48px;
+        line-height: 56px;
+        margin-left: 1px;
+    }
+    body.spz_home_v-2 .hero_section .hero_left_sec h1.tablet_only {
+        display: none !important;
+    }
+    body.spz_home_v-2 .hero-subtext {
+        font-size: 20px;
+        line-height: 32px;
+        max-width: 707px;
+        padding-bottom: 28px;
+    }
+    .spz_home_v-2 .main-img-content {
+        position: relative;
+    }
+    .spz_home_v-2 .arrow.right-arrow {
+        right: 32px;
+        top: 280px;
+    }
+    .spz_home_v-2 .arrow.left-arrow {
+        left: 33px;
+        top: 280px;
+    }
+    .spz_home_v-2 .tab-content {
+        padding: 100px 0 57px;
+    }
+    .spz_home_v-2 #tabs-content .row {
+        max-width: 598px;
+        margin: 0 auto;
+        position: relative;
+        top: 80px;
+        padding-bottom: 50px !important;
+    }
+    .spz_home_v-2 .tab-content {
+        height: auto;
+    }
+    .spz_home_v-2 .hero-section {
+        margin-top: 112px;
+        margin-bottom: 0;
+    }
+    .spz_home_v-2 #tabs-nav li {
+        max-width: 236px;
+    }
+    .spz_home_v-2 #tabs-content {
+        padding: 0;
+    }
+    .spz_home_v-2 #tabs-content #Employee-Gifting .row.second-row {
+        top: 65px;
+        padding-bottom: 0px;
+    }
+    .spz_home_v-2 .benefit {
+        max-width: 267px;
+    }
+    .spz_home_v-2 .benefit.right-align {
+        margin-left: -22px;
+    }
+    .spz_home_v-2 .benefit.left-align {
+        margin-right: 8px;
+    }
+    .spz_home_v-2 .bottom-block{
+        margin-top: -36px;
+    }
+    .spz_home_v-2 #In-Office-Snacks .bottom-block{
+        margin-top: -10px;
+    }
+    .spz_home_v-2 .benefit .heading {
+        margin-bottom: 8px;
+    }
+    .spz_home_v-2 #Client-Gifting .main-img-wrapper {
+        top: 42px;
+    }
+    .spz_home_v-2 #tabs-content #Client-Gifting .row {
+        top: 0px !important;
+        padding-bottom: 0;
+    }
+    .spz_home_v-2 #tabs-content #Client-Gifting .row.second-row {
+        top: 0 !important;
+        padding-bottom: 0;
+    }
+    .spz_home_v-2 .benefit.right-align.custom-padding-top, .spz_home_v-2 .benefit.left-align.cust-top {
+        padding-top: 1px;
+    }
+    .spz_home_v-2 #Client-Gifting a.see-box-pricing-cta {
+        top: 0;
+        margin-top: 0;
+    }
+    .spz_home_v-2 #In-Office-Snacks .main-img-wrapper {
+        max-width: 750px;
+        top: -8px;
+        left: 0;
+        margin-bottom: 40px;
+    }
+    .spz_home_v-2 #In-Office-Snacks .row {
+        top: 0px;
+        padding-bottom: 0;
+    }
+    .spz_home_v-2 #In-Office-Snacks.tab-content .row.second-row {
+        top: 0px;
+    }
+    .spz_home_v-2 #In-Office-Snacks a.see-box-pricing-cta {
+        top: 0;
+        margin-top: 0;
+    }
+    .spz_home_v-2 #Employee-Gifting .main-img-wrapper {
+        top: 45px;
+        max-width: 661px;
+        left: -7px;
+    }
+    .spz_home_v-2 #Client-Gifting .main-img-wrapper {
+        top: -17px;
+        max-width: 770px;
+        left: 0;
+    }
+    .spz_home_v-2 #Employee-Gifting a.see-box-pricing-cta {
+        top: 0;
+        margin-top: 0;
+    }
+    .spz_home_v-2 #Employee-Gifting .bottom-block {
+        margin-top: 55px;
+    }
+    .spz_home_v-2 .bottom-block .bottom_description {
+        margin: 0 auto 32px;
+    }
+    .spz_home_v-2 #Client-Gifting .bottom-block{
+        margin-top: -10px;
+    }
+    .spz_home_v-2 #top .container .row{
+        height: auto;
+    }   
+    .spz_home_v-2 .off-canvas-menu-container.mobile-only {
+        display: block !important;
+    }
+    .spz_home_v-2 .start-txt {
+        font-size: 18px;
+        line-height: 32px;
+        top: -4px;
+        padding-left: 23px;
+        margin-top: -13px;
+    }
+    .spz_home_v-2 .start-txt::before {
+        right: -74px;
+        -webkit-transform: rotate(20deg);
+        -ms-transform: rotate(20deg);
+        transform: rotate(20deg);
+        width: 74.62px;
+        height: 47.13px;
+        top: 25px;
+    }
+}
+@media(max-width: 999.98px) {
+    body.spz_home_v-2 #header-outer header .container {
+        padding: 9px 27px!important;
+    }
+    body.spz_home_v-2 #top .container .row {
+        height: auto;
+    }
+}
+@media (max-width:767px) {
+    body.spz_home_v-2 #header-outer header .container {
+        padding: 8px 27px!important;
+    }
+    .mobile-only {
+        display: block!important;
+    }
+    body.spz_home_v-2 .hero_section .hero_inner {
+        padding-top: 14px;
+        padding-bottom: 124px;
+    }
+    .spz_home_v-2 .review-block {
+        max-width: 273px;
+        padding-right: 4px;
+    }
+    body.spz_home_v-2 .hero_section .hero_left_sec .everyone_loved_top_sec p {
+        margin-top: -1px;
+        margin-left: -1px;
+    }
+    .spz_home_v-2 .review:nth-of-type(2) {
+        display: none;
+    }
+    .spz_home_v-2 .hero-title {
+        font-size: 28px;
+        max-width: 312px;
+        line-height: 38px;
+        margin: 4px auto 19px;
+    }
+    body.spz_home_v-2 .hero_section .hero_left_sec h1 {
+        font-size: 32px;
+        line-height: 40px;
+        width: 100%;
+        max-width: 310px;
+        margin: 13px auto 15px;
+    }
+    body.spz_home_v-2 .hero-subtext {
+        font-size: 14px;
+        line-height: 22px;
+        max-width: 301px;
+        margin-bottom: 44px;
+    }
+    .spz_home_v-2 .tab-content {
+        padding: 100px 0 64px;
+    }
+    .spz_home_v-2 #tabs-nav {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        position: absolute;
+        z-index: 1;
+        top: -31px;
+        bottom: auto;
+    }
+    .spz_home_v-2 .arrow.left-arrow {
+        display: none;
+    }
+    .spz_home_v-2 .arrow.right-arrow {
+        display: none;
+    }
+    .spz_home_v-2 #tabs-content .row {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+    .spz_home_v-2 #tabs-nav li {
+        height: 55px;
+        max-width: 312px;
+    }
+    .spz_home_v-2 #tabs-nav li:first-child a {
+        border-radius: 5px 5px 0px 0px;
+    }
+    .spz_home_v-2 #tabs-nav li:last-child a {
+        border-radius: 0px 0px 5px 5px;
+    }
+    .spz_home_v-2 #tabs-nav li a {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .spz_home_v-2 .hero-section {
+        margin-top: 90px;
+        margin-bottom: 32px;
+    }
+    .spz_home_v-2 .tab-section {
+        position: static;
+    }
+    .spz_home_v-2 #Employee-Gifting .main-img-wrapper {
+        top: 95px;
+        left: -3px;
+        max-width: 310px;
+    }
+    .spz_home_v-2 #In-Office-Snacks .main-img-wrapper {
+        top: 71px;
+    }
+    .spz_home_v-2 #In-Office-Snacks .row {
+        top: 76px;
+    }
+    .spz_home_v-2 .benefit .img-wrapper {
+        margin-bottom: 14px;
+    }
+    .spz_home_v-2 .benefit.left-align {
+        top: 0px;
+        position: relative;
+    }
+    .spz_home_v-2 #In-Office-Snacks.tab-content .row.second-row {
+        top: 69px;
+    }
+    .spz_home_v-2 .tab-content {
+        height: auto;
+    }
+    .spz_home_v-2 #In-Office-Snacks a.see-box-pricing-cta {
+        top: 0;
+        margin-bottom: 20px;
+    }
+    .spz_home_v-2 #Employee-Gifting .row {
+        top: 109px;
+        max-width: 296px;
+        width: 100%;
+        padding-left: 10px;
+        padding-bottom: 26px;
+    }
+    .spz_home_v-2 #Employee-Gifting .row .benefit {
+        max-width: 267px;
+        top: 0;
+        margin-left: 0;
+        /*margin-bottom: 24px;*/
+    }
+    .spz_home_v-2 .bottom-block{
+        margin-top: -5px;
+    }
+    .spz_home_v-2 #In-Office-Snacks .bottom-block{
+        margin-top: 80px;
+    }
+    .spz_home_v-2 #Employee-Gifting .benefit .text {
+        padding-left: 0px;
+    }
+    .spz_home_v-2 #tabs-content #Employee-Gifting .row.second-row {
+        top: 108px;
+        margin-bottom: 14px;
+    }
+    .spz_home_v-2 .benefit.left-align {
+        margin-right: 0;
+    }
+    .spz_home_v-2 #tabs-content #Employee-Gifting .row.second-row .text {
+        max-width: 277px;
+    }
+    .spz_home_v-2 #Client-Gifting .main-img-wrapper {
+        top: 67px;
+    }
+    .spz_home_v-2 #tabs-content #Client-Gifting .row {
+        top: 73px !important;
+    }
+    .spz_home_v-2 #tabs-content #Client-Gifting .row.second-row {
+        top: 64px !important;
+    }
+    .spz_home_v-2 #Client-Gifting a.see-box-pricing-cta {
+        top: 57px;
+        margin-bottom: 73px;
+    }
+    .spz_home_v-2 #Employee-Gifting a.see-box-pricing-cta {
+        top: -14px;
+        left: 0;
+        margin-bottom: 2px;
+    }
+    .spz_home_v-2 #tabs-content .row, .spz_home_v-2 .benefit.right-align {
+        padding-bottom: 24px !important;
+    }
+    body.spz_home_v-2 #header-outer[data-full-width="true"] header>.container, body[data-slide-out-widget-area-style="simple"] #header-outer[data-full-width="true"] #mobile-menu {
+        padding: 0 16px;
+    }
+    #header-outer[data-transparent-header="true"] #top #logo img.stnd {
+        margin: 0 !important;
+    }
+    .spz_home_v-2 .pl-10-xs {
+        padding-left: 10px !important;
+    }
+    .spz_home_v-2 .pr-10-xs {
+        padding-right: 10px !important;
+    }
+    .spz_home_v-2 a.see-box-pricing-cta{
+        max-width: 328px !important;
+        min-height: 64px;
+    }
+    .spz_home_v-2 .feeding-block {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        width: 100%;
+        max-width: 328px;
+        margin: 0 auto;
+    }
+    .spz_home_v-2 .feeding-block .left-block {
+        margin: 0;
+        text-align: center;
+        font-size: 14px;
+        line-height: 18px;
+        max-width: 313px;
+        margin-bottom: 24px;    
+    }
+    .spz_home_v-2 .feeding-block .right-block {
+        padding: 0;
+        border: 0;
+        width: 100%;
+        max-width: 100%;
+        justify-content: space-around;
+        margin-top: -12px;
+    }
+    .spz_home_v-2 .feeding-block .right-block .img-wrapper {
+        padding-left: 0;
+        max-width: 105px;
+        margin-left: 0;
+        height: 72px;
+    }
+    .spz_home_v-2 .stat-block {
+        margin-right: 0px;
+        margin-top: 2px;
+        padding-right: 0 !important;
+    }
+    .spz_home_v-2 .feeding-block .stat {
+        margin-bottom: 4px !important;
+    }
+    .spz_home_v-2 #Employee-Gifting .bottom-block{
+        margin-top: 138px;
+    }
+    .spz_home_v-2 #Client-Gifting .bottom-block{
+        margin-top: 18px;
+    }
+    .spz_home_v-2 #In-Office-Snacks.tab-content{
+        padding: 100px 0 39px;
+    }
+    .spz_home_v-2 #top .container .row{
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        height: auto;
+    }
+    .spz_home_v-2 .feeding-block .right-block .img-wrapper::before {
+        left: -27px;
+    }
+    .spz_home_v-2 .feeding-block .right-block .img-wrapper img {
+        margin-top: 2px;
+    }
+    .spz_home_v-2 .start-txt {
+        top: -78px;
+        margin-left: 78px;
+    }
+    /*.spz_home_v-2 #Client-Gifting .main-img-wrapper {
+        max-width: 328px;
+    }*/
+}
+
+@media (max-width:359px) {
+    .spz_home_v-2 a.see-box-pricing-cta{
+        max-width: 280px !important;
+    }
+}
+
+/* Office Snack boxes & personalized gift boxes start */
+.spz_home_v-2 .office_snacks_section .small_mobile_only_img, .spz_home_v-2 .personalized_gift_boxes .small_mobile_only_img {
+    display: none;
+}
+@media(max-width: 991.98px){
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper_tablet_only, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper_tablet_only {
+        display: none !important;
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop {
+        display: flex !important;
+        flex-wrap: wrap;
+    }
+    .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop {
+        flex-flow: column-reverse;
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .single_item, .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .single_item .gift_item_wrapper, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .single_item, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .single_item .gift_item_wrapper {
+        max-width: 100%;
+        margin: 0;
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .single_item, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .single_item {
+        margin-bottom: 35px;
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .single_item .item_img .desktop_only_img, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .single_item .item_img .desktop_only_img {
+        display: none;
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .single_item .item_img .mobile_only_img, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .single_item .item_img .mobile_only_img {
+        display: block;
+        max-width: 100%;
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .gift_item_wrapper, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .gift_item_wrapper {
+        max-width: calc(50% - 18px);
+        max-width: -moz-calc(50% - 18px);
+        max-width: -webkit-calc(50% - 18px);
+        max-width: -o-calc(50% - 18px);
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .multi_item .item_img, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .multi_item .item_img {
+        height: 179px;
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .multi_item .item_img:after, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .multi_item .item_img:after {
+        bottom: 0;
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .multi_item .item_name, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .multi_item .item_name {
+        margin-top: 12px;
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .multi_item .gift_item_wrapper:last-child, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .multi_item .gift_item_wrapper:last-child {
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+@media(max-width: 767.98px){
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .multi_item .item_img, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .multi_item .item_img {
+        height: 119px;
+    }
+    .spz_home_v-2 .office_snacks_section .mobile_only_img, .spz_home_v-2 .personalized_gift_boxes .mobile_only_img {
+        display: none !important;
+    }
+    .spz_home_v-2 .office_snacks_section .small_mobile_only_img, .spz_home_v-2 .personalized_gift_boxes .small_mobile_only_img {
+        display: block;
+        max-width: 328px;
+    }
+    .spz_home_v-2 .office_snacks_section .snack_gift_flex_wrapper.desktop .gift_item_wrapper, .spz_home_v-2 .personalized_gift_boxes .snack_gift_flex_wrapper.desktop .gift_item_wrapper {
+        max-width: calc(50% - 8px);
+        max-width: -moz-calc(50% - 8px);
+        max-width: -webkit-calc(50% - 8px);
+        max-width: -o-calc(50% - 8px);
+    }
+}
+/* Office Snack boxes & personalized gift boxes End */
+
+.spz_home_v-2 .hero_section .hero_inner .hero_sub_heading {
+    max-width: 711px;
+    margin: 0 auto;
+}
+.spz_home_v-2 .hero_inner .hero_sub_heading b {
+    font-weight: 700;
+}
+/* Three cards in hero  */
+.spz_home_v-2 .hero_gift .mobile_only {
+    display: none;
+}
+.spz_home_v-2 .hero_gift {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1248px;
+    width: 100%;
+    margin: 20px auto 85px;
+}
+.spz_home_v-2 .hero_gift .hero_gift_box {
+    max-width: calc(33% - 38px);
+    width: 100%;
+}
+.spz_home_v-2 .hero_gift .hero_gift_detail .hero_gift_title {
+    font-size: 28px;
+    line-height: 32px;
+    color: #2E2E33;
+    font-weight: 700;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    text-align: center;
+}
+.spz_home_v-2 .hero_gift .hero_gift_detail .hero_gift_btn{
+    max-width: 260px;
+    cursor: pointer;
+    background: #3464B5;    
+    color: #fff;
+    text-align: center;
+    display: block;
+    transition: 0.4s all;
+    font-size: 20px;
+    line-height: 64px;
+    font-weight: 700;
+    border-radius: 64px;
+    margin: 0 auto;
+    height: 64px;
+}
+.spz_home_v-2 .hero_gift .hero_gift_detail .hero_gift_btn:hover,
+.spz_home_v-2 .hero_gift .hero_gift_detail .hero_gift_btn:focus {
+    background-color: #C27582;
+    outline: none;
+}
+.snacknation_home_dual_intent .thoughtful_snack_gift_section .gift_img img.tablet_only,
+.snacknation_home_dual_intent .thoughtful_snack_gift_section .gift_img img.mobile_only {
+    display: none;
+}
+@media (max-width:991px) {
+    .spz_home_v-2 .hero_gift {
+        align-items: center;
+        margin: 16px auto 0;
+        flex-direction: column;
+    }
+    .spz_home_v-2 .hero_gift .hero_gift_box:not(:last-child) {
+        max-width: 540px;
+        margin-bottom: 80px;
+    }
+    .spz_home_v-2 .hero_gift .hero_gift_box:last-child {
+        max-width: 540px;
+        margin-bottom: 7px;
+    }
+    .spz_home_v-2 .hero_gift .hero_gift_detail .hero_gift_title {
+        margin-top: 16px    ;
+        margin-bottom: 32px;
+    }
+    .spz_home_v-2 .hero_gift .hero_gift_detail .hero_gift_btn {
+        max-width: 312px;
+    }
+}
+@media (max-width:767px) {
+    .spz_home_v-2 .hero_gift .mobile_only {
+        display: block;
+    }
+    .spz_home_v-2 .hero_gift .desktop_only {
+        display: none;
+    }
+    .spz_home_v-2 .hero_gift .hero_gift_box:not(:last-child) {
+        margin-bottom: 64px;
+    }
+    .spz_home_v-2 .hero_gift .hero_gift_box:last-child {
+        margin-bottom: 0;
+    }
+    .spz_home_v-2 .hero_gift {
+        margin: 24px auto 0;
+    }
+    .spz_home_v-2 .hero_gift .hero_gift_detail .hero_gift_title{
+        font-size: 24px;
+        line-height: 28px;
+        margin-top: 8px;
+        margin-bottom: 28px;
+    }
+}
+
+
+/*partenship start*/
+.snacknation_home_dual_intent section.patnership {
+    background: #F3F2ED;
+    border-bottom: 1px solid #ADADAD;
+}
+
+.snacknation_home_dual_intent .patnership .left_col {
+    position: relative;
+    width: 100%;
+    max-width: 637px;
+    margin-left: -97px;
+}
+
+.snacknation_home_dual_intent .patnership .left_col img {
+    width: 100%;
+}
+.snacknation_home_dual_intent .patnership .left_col .desktop_only{
+    display: block;
+}
+.snacknation_home_dual_intent .patnership .left_col .tablet_only{
+    display: none;
+}
+.snacknation_home_dual_intent .patnership .left_col .mob_only{
+    display: none;
+}
+
+.snacknation_home_dual_intent .patnership .patner_row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+.snacknation_home_dual_intent .patnership .partens_heading {
+    font-weight: 800;
+    margin-bottom: 16px;
+    font-size: 48px;
+    line-height: 56px;
+    color: #3464B5;
+}
+
+.snacknation_home_dual_intent .patnership .right_col {
+    max-width: 672px;
+    position: relative;
+    margin-right: 23px;
+    width: 100%;
+}
+
+.snacknation_home_dual_intent .patnership .partner_text {
+    font-style: normal;
+    font-weight: 400;
+    max-width: 681px;
+    margin-bottom: 19px;
+    font-size: 20px;
+    line-height: 28px;
+    color: #3D3D3D;
+}
+
+.snacknation_home_dual_intent .patnership .explpore_brands {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding-left: 33px;
+    position: relative;
+    max-width: 300px;
+    height: 68px;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    background: #FF5773;
+    border-radius: 68px;
+    border: none;
+    line-height: 115%;
+    color: #FFFFFF;
+}
+.snacknation_home_dual_intent .patnership .explpore_brands:hover{
+    background: #D94A62;
+}
+.snacknation_home_dual_intent .patnership .explpore_brands::after{
+    position: absolute;
+    content: '';
+    background-image: url(https://res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/1201%20Snacknation%20Home%20%20Add%20Banner/line.png);
+    background-size: cover;
+    width: 24px;
+    left: 57px;
+    top: 33px;
+    padding-left: -13px;
+    height: 2px;
+}
+
+@media(max-width:991px) {
+    .snacknation_home_dual_intent section.patnership{
+        padding-bottom: 80px;
+    }
+    .snacknation_home_dual_intent .patnership .container{
+        max-width: 100%;
+        padding: 0;
+    }
+    .snacknation_home_dual_intent .patnership .patner_row {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+    .snacknation_home_dual_intent .patnership .left_col {
+        margin-left: 0;
+        max-width: 100%;
+    }
+    .snacknation_home_dual_intent .patnership .left_col .desktop_only{
+        display: none;
+    }
+    .snacknation_home_dual_intent .patnership .left_col .tablet_only{
+        display: block;
+    }
+    .snacknation_home_dual_intent .patnership .left_col .mob_only{
+        display: none;
+    }
+    .snacknation_home_dual_intent .patnership  .left_col::after {
+        content: '';
+        position: absolute;
+        background-image: url(https://res.cloudinary.com/spiralyze/image/upload/v1643200234/Snacknation/1201%20Snacknation%20Home%20%20Add%20Banner/curve.png);
+        width: 100%;
+        height: 100px;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        bottom: -36px;
+    }
+    .snacknation_home_dual_intent.ios .patnership .explpore_brands::after{
+        top: 100px;
+        
+    }
+    .snacknation_home_dual_intent .patnership .partner_text{
+        margin-bottom: 24px;
+    }
+    .snacknation_home_dual_intent .patnership .partens_heading{
+        padding: 0;
+        text-align: center;
+    }
+    .snacknation_home_dual_intent .patnership .left_col img {
+        display: block;
+    }
+    .snacknation_home_dual_intent .patnership .right_col {
+        max-width: 706px;
+        margin: 36px auto 0;
+    }
+    .snacknation_home_dual_intent .patnership .explpore_brands {
+        margin: auto;
+        max-width: 342px;
+    }
+    .snacknation_home_dual_intent .patnership .explpore_brands::after{
+        width: 24px;
+    left: 78px;
+    top: 32px;
+    height: 2px;
+    }
+}
+
+@media(max-width:767px) {
+
+    .snacknation_home_dual_intent .patnership .left_col .desktop_only{
+        display: none;
+    }
+    .snacknation_home_dual_intent .patnership .left_col .tablet_only{
+        display: none;
+    }
+    .snacknation_home_dual_intent .patnership .left_col .mob_only{
+        display: block;
+    }
+    .snacknation_home_dual_intent .patnership .left_col::after {
+        bottom: -50px;
+    }
+    .snacknation_home_dual_intent .patnership .right_col{
+        margin: 27px auto 0;
+    }
+    .snacknation_home_dual_intent .patnership .partens_heading {
+        font-size: 32px;
+        line-height: 40px;
+        text-align: center;
+        max-width: 288px;
+        padding: 0;
+        margin: 0 auto 14px;
+    }
+    .snacknation_home_dual_intent .patnership .partner_text {
+        font-size: 16px;
+        margin: 0 auto 16px;
+        line-height: 24px;
+        max-width: 288px;
+
+    }
+    .snacknation_home_dual_intent .patnership .explpore_brands{
+        max-width: 288px;
+        padding-left: 38px;
+    }
+    .snacknation_home_dual_intent .patnership .explpore_brands::after{
+        left: 51px;
+    }
+}
+
+@media(max-width:584px) {
+    .snacknation_home_dual_intent .patnership .left_col::after {
+        bottom: -60px;
+        height: 86px;
+    }
+}
+
+/* body .page_content:nth-child(4){
+    display: none !important;
+} */
+.snacknation_home_dual_intent .tab-section{
+    display: none;
+}

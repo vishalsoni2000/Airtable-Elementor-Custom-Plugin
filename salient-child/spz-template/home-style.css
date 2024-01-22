@@ -1,0 +1,3000 @@
+        @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700;800;900&display=swap');
+        .snacknation_home img{
+            max-width: 100%;
+            display: block;
+        }
+        ul.mobile-menu{display: none;}
+        .snacknation_home .for-remote,.snacknation_home .for-office{
+            display: none !important;
+        }
+        .snacknation_home .for-remote.active,.snacknation_home .for-office.active{
+            display: block !important;
+        }
+        .snacknation_home .table-img,.snacknation_home .mobile-img,.snacknation_home .tab-img{display: none;}
+        .snacknation_home .wpb_row{
+            display: none !important;
+        }
+        .snacknation_home header#top .container {
+            max-width: 1440px;
+            padding: 0 32px 0 23px;
+        }
+        .snacknation_home header#top a#logo {
+            margin-top: 15px;
+            margin-bottom: 15px;
+            max-width: 251px;
+        }
+        .snacknation_home header#top a#logo img {
+            width: 100%;
+            height: auto;
+        }
+        .snacknation_home header#top .col_last li.menu-item.button_solid_color_2 a:before{
+            display: none !important;
+        }
+        .snacknation_home header#top .col_last li.menu-item.button_solid_color_2 a{
+            display: block;
+            border: 1px solid #365ABD;
+            box-sizing: border-box;
+            border-radius: 40px;
+            padding-left: 19px !important;
+            padding-right: 19px !important;
+        }
+         .snacknation_home header#top .col_last li.menu-item.button_solid_color_2 a,
+         .snacknation_home header#top .col_last li.menu-item.button_solid_color_2 a span{
+            transition: all 0.3s !important;
+            -o-transition: all 0.3s !important;
+            -ms-transition: all 0.3s !important;
+            -moz-transition: all 0.3s !important;
+         }
+        body.snacknation_home #header-outer header#top .col_last nav ul li.menu-item.button_solid_color_2 a:hover,
+        .snacknation_home header#top .col_last li.menu-item.button_solid_color_2 a:hover{
+            background: #365ABD;
+        }
+        .snacknation_home header#top .col_last li.menu-item.button_solid_color_2 a:hover span{
+            color: #fff;
+        }
+        .snacknation_home header#top .col_last li.menu-item.button_solid_color_2 a span {
+            color: #365ABD;
+            font-weight: bold;
+            font-size: 14px;
+            text-align: center;
+            line-height: 38px;
+        }
+        .snacknation_home p {
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 28px;
+            color: #676767;
+            padding-bottom: 8px;
+        }
+        .snacknation_home p b {
+            font-weight: 700;
+            color: #000;
+        }
+        .snacknation_home .hero-section .hero-inner{
+            padding-top: 13px;
+        }
+        .snacknation_home .hero-section .hero-row {
+            max-width: 1376px;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-start;
+            justify-content: space-between;
+        }
+        .snacknation_home .hero-section .hero-left-sec {
+            max-width: 45.64%;
+            width: 100%;
+            padding-left: 88px;
+            padding-right: 0px;
+            padding-top: 21px;
+        }
+        .snacknation_home .hero-section .hero-left-sec h1 {
+            font-family: Nunito;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 40px;
+            line-height: 50px;
+            color: #2E2E33;
+            margin-bottom: 21px;
+        }
+        .snacknation_home .hero-section .hero-right-sec {
+            max-width: 54.05%;
+            width: 100%;
+            margin-left: 0;
+            margin-right: -16px;
+        }
+        .snacknation_home .hero-section .hero-btn {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-top: 25px;
+        }
+        .snacknation_home .hero-section .hero-btn .btn-all {
+            max-width: 264px;
+            width: 100%;
+        }
+        .snacknation_home .hero-section .hero-btn .btn-all .hero-btn-a {
+            background: #365ABD;
+            border-radius: 40px;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 56px;
+            text-align: center;
+            color: #FFFFFF;
+            display: block;
+            transition: 0.4s all;
+            cursor: pointer;
+        }
+        .snacknation_home .hero-section .hero-btn .btn-all .hero-btn-a span{
+            text-decoration: underline;
+        }
+        .snacknation_home .hero-section .hero-btn .btn-all .hero-btn-a:hover,
+        .snacknation_home .hero-section .hero-btn .btn-all .hero-btn-a:active{
+            background: #1940AB;
+        }
+        .snacknation_home .hero-section .btn-two.btn-all .hero-btn-a {
+            color: #365ABD;
+            border: 1px solid #365ABD;
+            transition: 0.4s all;
+            background: transparent;
+        }
+        .snacknation_home .hero-section .btn-two.btn-all .hero-btn-a:hover{
+            background: #365ABD;
+            color: #fff;
+        }
+        .snacknation_home .hero-section .btn-two.btn-all .hero-btn-a:active{
+            background: rgba(54, 90, 189, 0.05);
+            color: #365ABD;
+        }
+        .snacknation_home .hero-section .hero-btn p {
+            font-size: 14px;
+            line-height: 20px;
+            text-align: center;
+            max-width: 100%;
+            margin: 12px auto 0;
+            padding-bottom: 0;
+        }
+        .snacknation_home .hero-section .hero-btn p span {
+            color: #365ABD;
+            cursor: pointer;
+            display: block;
+            text-decoration: underline;
+        }
+        .snacknation_home .hero-section .hero-btn p span:hover,
+        .snacknation_home .hero-section .hero-btn p span:active{
+            text-decoration: none;
+        }
+        .inner-everyone-loved ul{
+            display: flex;
+            margin-left: 0;
+            text-align: center;
+            justify-content: center;
+            margin-bottom: 5px;
+        }
+        .inner-everyone-loved ul li{
+            list-style: none;
+        }
+        .inner-everyone-loved ul li img{
+            max-width: 13px;
+            margin: 1px;
+        }
+        .everyone-loved-top-sec{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            max-width: 305px;
+            margin: 0 auto 17px;
+        }
+        .snacknation_home .everyone-loved-top-sec .inner-everyone-loved p{
+            font-size: 18px;
+            line-height: 28px;
+        }
+        @media(max-width: 1400.98px){
+            .snacknation_home .hero-section .hero-row{max-width: 1130px;}
+            .snacknation_home .hero-section .hero-btn .btn-all {
+                max-width: 48%;
+            }
+            .snacknation_home .hero-section .hero-left-sec{
+                padding-left: 10px;
+                max-width: 47.64%;
+            }
+        }
+        @media(max-width: 1199.98px){
+            .snacknation_home header#top a#logo img{
+                width: 250px;
+            }
+            .snacknation_home header#top a#logo{
+                margin-top: 0px;
+                margin-bottom: 0;
+            }
+            .snacknation_home #top .col.span_3 {
+                left: -10px;
+            }
+            .snacknation_home .hero-section .hero-inner {
+                padding-top: 0px;
+            }
+            .snacknation_home .hero-right-sec .tab-img{
+                display: block;
+            }
+            .snacknation_home .hero-right-sec .desk-img{
+                display: none;
+            }
+            .snacknation_home .hero-section .hero-left-sec,.snacknation_home .hero-section .hero-right-sec {
+                max-width: 100%;
+            }
+            .snacknation_home .hero-section .hero-row {
+                max-width: 720px;
+            }
+            .snacknation_home .hero-section .hero-left-sec {
+                padding-left: 0;
+                padding-right: 0px;
+                padding-top: 50px;
+            }
+            .snacknation_home .hero-section .hero-btn{
+                justify-content: flex-start;
+            }
+            .snacknation_home .hero-section .hero-btn .btn-all {
+                max-width: 264px;
+            }
+            .snacknation_home .hero-section .hero-btn .btn-all.btn-one {
+                margin-right: 12px;
+            }
+            .snacknation_home .hero-section .hero-btn .btn-all .hero-btn-a {
+                font-size: 16px;
+                line-height: 54px;
+            }
+            .snacknation_home .hero-section .hero-left-sec h1{
+                margin-bottom: 17px;
+            }
+            .snacknation_home .hero-section .hero-right-sec{
+                margin-top: 35px;
+                margin-left: 0px;
+                margin-right: 0;
+            }
+            .snacknation_home .hero-right-sec .tab-img{
+                max-width: 716px;
+            }
+            body.snacknation_home #top #logo img, #header-outer[data-permanent-transparent="false"] #logo .dark-version{
+                height: 100% !important;
+            }
+        }
+        @media(min-width: 1000px) and (max-width: 1199.98px){
+            .snacknation_home header#top a#logo img{
+                width: 220px;
+            }
+            .snacknation_home header#top a#logo{
+                margin-top: 15px;
+                margin-bottom: 15px;
+            }
+        }
+        @media(min-width: 1200px) and (max-width: 1400.98px){
+            .snacknation_home .hero-section .hero-right-sec{
+                max-width: 53.05%;
+            }
+        }
+        @media(max-width:999.98px){
+            .snacknation_home ul.mobile-menu {
+                display: block;
+                margin-top: 0px;
+                margin-bottom: 0;
+                margin-right: 10px;
+            }
+            .snacknation_home header#top .col.span_9.col_last {
+                display: flex;
+                flex-wrap: wrap;
+                align-items: center;
+            }
+            .snacknation_home div#header-outer header#top .col.span_9.col_last .slide-out-widget-area-toggle i.lines-button i.lines::before{width: 100% !important;}
+            .snacknation_home div#header-outer header#top .col.span_9.col_last .slide-out-widget-area-toggle i.lines-button i.lines,
+            .snacknation_home div#header-outer header#top .col.span_9.col_last .slide-out-widget-area-toggle i.lines-button i.lines::before,
+            .snacknation_home div#header-outer header#top .col.span_9.col_last .slide-out-widget-area-toggle i.lines-button i.lines::after,
+            .snacknation_home div#header-outer header#top .col.span_9.col_last .slide-out-widget-area-toggle i.lines-button::after,
+            .snacknation_home div#header-outer header#top .col.span_9.col_last .slide-out-widget-area-toggle span.close-wrap span.close-line {
+                color: #365ABD !important;
+                background-color: #365ABD !important;
+            }
+            .snacknation_home div#header-outer header#top .col.span_9.col_last .slide-out-widget-area-toggle .menu-push-out i.lines-button i.lines{
+                background-color: transparent !important;
+            }
+        }
+        @media(max-width: 767.98px){
+            .snacknation_home ul.mobile-menu{display: none;}
+            .snacknation_home #header-outer.transparent[data-permanent-transparent="false"].dark-slide #top .slide-out-widget-area-toggle.mobile-icon i:before,
+            .snacknation_home #header-outer.transparent[data-permanent-transparent="false"].dark-slide #top .slide-out-widget-area-toggle.mobile-icon i:after{
+                background-color: #365abd!important;
+            }
+            .snacknation_home header#top a#logo {
+                margin-top: 0;
+                margin-bottom: 0;
+                max-width: 210px;
+            }
+            .snacknation_home header#top .container{
+                padding: 0 16px 0 16px;
+            }
+            .snacknation_home #top .col.span_3{
+                left: -10px;
+            }
+            .snacknation_home .hero-left-sec p{
+                font-size: 16px;
+                line-height: 24px;
+            }
+            .snacknation_home .hero-section .hero-left-sec{
+                padding-top: 45px;
+            }
+            .snacknation_home .hero-right-sec .tab-img,.snacknation_home .hero-right-sec .desk-img{
+                display: none;
+            }
+            .snacknation_home .hero-right-sec .mobile-img{
+                display: block;
+                max-width: 370px;
+                margin-left: -17px;
+            }
+            .snacknation_home p{
+                font-size: 14px;
+                line-height: 23px;
+            }
+            .snacknation_home .hero-section .hero-btn .btn-all.btn-two{
+                margin-top: 25px;
+            }
+            /*.snacknation_home .hero-section .hero-btn p{
+                max-width: 249px;
+            }*/
+            .snacknation_home .hero-section .hero-btn{
+                margin-top: 16px;
+            }
+            .snacknation_home .hero-section .hero-btn .btn-all.btn-one {
+                margin-right: 0;
+            }
+            .snacknation_home .hero-section .hero-btn {
+                justify-content: center;
+            }
+            .snacknation_home .hero-section .hero-left-sec h1{
+                font-size: 32px;
+                line-height: 40px;
+                margin-bottom: 15px;
+            }
+            .snacknation_home .hero-section .hero-row{
+                max-width: 343px;
+            }
+            /*.snacknation_home .hero-section .hero-inner {
+                padding-top: 58px;
+            }*/
+            .snacknation_home .hero-section .hero-right-sec {
+                margin-top: 24px;
+            }
+        }
+        @media(max-width: 374.98px){
+            .snacknation_home .hero-section .hero-row{
+                padding: 0px 15px;
+            }
+            .snacknation_home .hero-right-sec .mobile-img{
+                max-width: 100%;
+                margin-left: 0;
+            }
+        }
+        /*hero section end*/
+
+        /*client section*/
+        .client-section .client-inner {
+            padding-top: 40px;
+            padding-bottom: 28px;
+        }
+        .client-section .container {
+            max-width: 1355px;
+            padding: 0;
+        }
+        .client-section .client-inner h2 {
+            font-weight: 800;
+            font-size: 24px;
+            line-height: 34px;
+            text-align: center;
+            color: #2E2E33;
+            max-width: 755px;
+            width: 100%;
+            margin: auto;
+        }
+        .client-section .client-inner .client-col {
+            position: relative;
+            margin: 25px 0 0;
+        }
+        .client-section .client-inner .client-col::before,
+        .client-section .client-inner .client-col::after{
+            content: "";
+            position: absolute;
+            width: 125px;
+            height: 100%;
+            background: linear-gradient(90deg, #FFFFFF 27.6%, rgba(255, 255, 255, 0) 71.6%);
+            top: 0;
+            left: 0;
+        }
+        .client-section .client-inner .client-col::after{
+            background: linear-gradient(268.04deg, #FFFFFF 43.14%, rgba(255, 255, 255, 0) 93.95%);
+            left: auto;
+            right: 0;
+        }
+        .client-section .client-inner .client-col .desktop-img {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+            overflow-x: scroll;
+        }
+        .client-section .client-inner .client-col .desktop-img img {
+            max-width: 2702px;
+        }
+        .client-section .client-inner .client-col .desktop-img::-webkit-scrollbar {
+            display: none;
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+        @media(max-width: 1199.98px){
+            .client-section .client-inner {
+                padding-top: 56px;
+            }
+            .snacknation_home .desktop-img, .snacknation_home .mobile-img{
+               display: none; 
+            }
+            .snacknation_home .table-img{
+                display: block;
+            }
+            .client-section .container{
+                max-width: 768px;
+            }
+            /*.client-section .client-inner{
+                padding-bottom: 64px;
+            }*/
+        }
+        @media(max-width: 767.98px){
+            .client-section .client-inner h2{
+                font-size: 20px;
+                line-height: 30px;
+            }
+            .client-section .client-inner {
+                padding-top: 25px;
+            }
+            .snacknation_home .client-col .table-img{
+                display: none;
+            }
+            .snacknation_home .client-col .mobile-img{
+                display: block;
+            }
+            .client-section .container{
+                max-width: 375px;
+            }
+            /*.client-section .client-inner{
+                padding-bottom: 56px;
+            }*/
+        }
+        @media(max-width: 374.98px){
+            .client-section .container{
+                padding: 0px 15px;
+            }
+        }
+        /*client section end*/
+
+        /*product section*/
+        .product-section .product-inner {
+            padding-top: 80px;
+            margin-top: 52px;
+            position: relative;
+            /*background: rgba(103, 103, 103, 0.04);*/
+            margin-bottom: 261px;
+        }
+        .product-section .product-inner::before {
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: calc(100% - 23px);
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/productbg.png);
+            background-size: 100%;
+            top: 0;
+        }
+        .product-section .product-inner::after{
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: 261px;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/product-section-1-before.png);
+            background-size: 100%;
+            background-repeat: no-repeat;
+            bottom: -238px;
+        }
+        .product-section .product-inner .container {
+            max-width: 1236px;
+            padding: 0;
+        }
+        .product-section .product-inner h2 {
+            font-weight: 800;
+            font-size: 40px;
+            line-height: 46px;
+            text-align: center;
+            color: #2E2E33;
+            margin-bottom: 16px;
+        }
+        .product-section .product-inner p {
+            max-width: 766px;
+            text-align: center;
+            margin: 0 auto 34px;
+            font-weight: 600;
+        }
+        .product-section .product-inner .product-ul {
+            margin: 0;
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .product-section .product-inner .product-ul .product-li {
+            list-style: none;
+            max-width: 285px;
+            width: 100%;
+            margin-right: 31px;
+            text-align: center;
+            margin-bottom: 45px;
+        }
+        .product-section .product-inner .product-ul .product-li:nth-child(4n){
+            margin-right: 0px;
+        }
+        .product-section .product-inner .product-ul .product-li:nth-child(3) img {
+            margin-bottom: 7px;
+        }
+        .product-section .product-inner .product-ul .product-li:nth-child(4) img{
+            max-width: 81%;
+            margin-top: 8px;
+            margin-bottom: 24px;
+        }
+        .product-section .product-inner .product-ul .product-li:nth-child(8) img {
+            max-width: 89%;
+            margin-top: 0;
+            margin-bottom: 24px;
+        }
+        .product-section .product-inner .product-ul .product-li p {
+            margin: -3px auto 0px;
+            color: #2E2E33;
+            font-size: 22px;
+            line-height: 27px;
+            font-weight: bold;
+            padding-bottom: 0;
+        }
+        .product-section .product-btn {
+            text-align: center;
+            margin-top: 4px;
+            position: relative;
+            z-index: 2;
+        }
+        .product-section .product-btn a {
+            background: #365ABD;
+            border-radius: 40px;
+            font-family: Nunito;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 56px;
+            text-align: center;
+            text-transform: capitalize;
+            color: #FFFFFF;
+            display: inline-block;
+            padding: 0 30px;
+            margin-bottom: 20px;
+            transition: 0.4s all;
+        }
+        .product-section .product-btn a:hover,
+        .product-section .product-btn a:active{
+            background: #1940AB;
+        }
+        .product-section .product-btn p {
+            margin: 0 auto 0px;
+            padding: 0;
+            color: #666666;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 20px;
+        }
+        @media(min-width: 2550.98px){
+            .product-section .product-inner::before {
+                height: calc(100% - 122px);
+            }
+            .product-section .product-inner::after {
+                height: 430px;
+                bottom: -307px;
+            }
+        }
+        @media(min-width: 1600.98px){
+            .product-section .product-inner::after{
+                height: 300px;
+                bottom: -228px;
+            }
+            .product-section .product-inner::before{
+                height: calc(100% - 72px);
+            }
+            .product-info .info-inner .info-row.info-row-1:after{
+                width: 784px;
+                height: 567px;
+            }
+            .product-info .info-inner .info-row.left-img:before {
+                width: 773px;
+                height: 551px;
+            }
+            .product-info .info-inner .info-row.info-row-3:after {
+                width: 789.08px;
+                height: 664.54px;
+            }
+        }
+        @media(max-width: 1400.98px){
+            .product-section .product-inner .container{
+                max-width: 1130px;
+            }
+            .product-section .product-inner .product-ul{
+                max-width: 1114px;
+                width: 100%;
+                margin: auto;
+            }
+            .product-section .product-inner .product-ul .product-li{
+                max-width: 255px;
+            }
+        }
+        @media(max-width: 1199.98px){
+             .product-section .product-inner{
+                margin-bottom: 226px;
+            }
+            .product-section .product-btn{
+                margin-top: 34px;
+            }
+            .product-section .product-inner .product-ul .product-li p {
+                margin: 1px auto 0px;
+            }
+            .product-section.for-office  .product-inner .product-ul .product-li p{
+                margin: 3px auto 0px;
+            }
+            .product-section.for-office .product-btn {
+                margin-top: 27px;
+                padding-bottom: 1px;
+            }
+            .product-section .product-inner p{
+                margin: 0 auto 36px;
+            }
+            .client-section .client-inner .client-col::before, .client-section .client-inner .client-col::after{
+                display: none;
+            }
+            .product-section .product-inner .product-ul .product-li {
+                max-width: 235px;
+                margin-right: 0;
+                margin-bottom: 28px;
+            }
+            .product-section .product-inner .product-ul{
+                max-width: 714px;
+                justify-content: center;
+            }
+            .product-section .product-inner h2{
+                margin-bottom: 18px;
+                line-height: 50px;
+            }
+            .product-section .product-inner{
+                padding-top: 64px;
+                margin-top: 36px;
+            }
+            .product-section .product-inner .container {
+                max-width: 720px;
+            }
+            .product-section .product-inner::after{
+                background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625632651/Snacknation/Home-redesign/product-before-768.png);
+            }
+        }
+        @media(max-width: 767.98px){
+            .product-section .product-inner .product-btn p{
+                font-size: 14px;
+                line-height: 20px;
+                margin-top: 0px;
+            }
+            .product-section .product-inner::after{
+                bottom: -258px;
+            }
+            .product-section .product-inner::before{
+                height: calc(100% - 3px);
+            }
+            .product-section .product-btn {
+                margin-top: -2px;
+            }
+            .product-section .product-inner p {
+                margin: 8px auto 26px;
+            }
+            .product-section .product-inner h2{
+                font-size: 32px;
+                line-height: 40px;
+                margin-bottom: 16px;
+            }
+            .product-section .product-inner{
+                /*margin-top: 56px;*/
+                padding-top: 57px;
+            }
+            .product-section .product-inner p {
+                max-width: 343px;
+                font-size: 16px;
+                line-height: 24px;
+            }
+            .product-section .product-inner .product-ul .product-li {
+                max-width: 185px;
+                margin-bottom: 22px;
+            }
+            .product-section .product-inner .product-ul {
+                justify-content: space-between;
+            }
+            .product-section .product-inner .container{
+                max-width: 375px;
+            }
+            .product-section .product-inner .product-ul .product-li p{
+                font-size: 18px;
+            }
+            .product-section .product-inner {
+                margin-bottom: 204px;
+            }
+        }
+        @media(max-width: 374.98px){
+            .product-section .product-inner .container{
+                padding: 0px 15px;
+            }
+            .product-section .product-inner h2{
+                font-size: 28px;
+                line-height: 36px;
+            }  
+            .product-section .product-inner .product-ul .product-li{
+                max-width: 145px;
+            }
+        }
+        /*product section end*/
+
+        /*product info*/
+        .product-info .info-inner {
+            margin-top: -130px;
+        }
+        .product-info .info-inner .info-col {
+            max-width: 1200px;
+            width: 100%;
+            margin: auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            position: relative;
+            z-index: 2;
+        }
+        .product-info .info-inner .info-col .info-text {
+            max-width: 540px;
+            width: 100%;
+        }
+        .product-info .info-inner .info-col .info-img {
+            max-width: 580px;
+            width: 100%;
+            margin-top: -9px;
+            margin-left: 20px;
+            margin-right: -20px;
+            position: relative;
+        }
+        .product-info .info-inner .info-text h2 {
+            font-family: Nunito;
+            font-style: normal;
+            font-weight: 800;
+            font-size: 40px;
+            line-height: 50px;
+            color: #2E2E33;
+            margin-bottom: 32px;
+        }
+        .product-info .info-inner .info-text ul {
+            margin: 0;
+        }
+        .product-info .info-inner .info-text ul .info-col {
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: 25px;
+        }
+        .product-info .info-inner .info-text ul .info-col .icon {
+            max-width: 40px;
+            width: 100%;
+        }
+        .product-info .info-inner .info-text ul .info-col .text {
+            max-width: 482px;
+            width: 100%;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 28px;
+            color: #676767;
+        }
+        .product-info .info-inner .info-text ul .info-col .text b {
+            /*margin-right: 2px;*/
+            font-weight: bold;
+            color: #FB637E;
+        }
+        .product-info .info-inner .info-text ul .info-col:nth-child(2) .text b{color: #365ABD;}
+        .product-info .info-inner .info-text ul .info-col:nth-child(3) .text b{color: #FFB81C;}
+        .product-info .info-inner .info-row {
+            margin-bottom: 175px;
+            position: relative;
+        }
+        .product-info .info-inner .info-row.info-row-1:after{
+            content: "";
+            position: absolute;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/info-before-1.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            bottom: -316px;
+            right: 0;
+            width: 724px;
+            height: 507px;
+        }
+        .product-info .info-inner .info-col .info-img .img-before {
+            z-index: 1;
+            background: #FFFFFF;
+            border: 1px solid #FFB81C;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: center;
+            color: #676767;
+            position: absolute;
+            max-width: 471px;
+            padding: 8px 24px;
+            left: calc(-48% + 2px);
+            bottom: -90px;
+        }
+        .product-info .info-inner .info-col .info-img .img-before::after {
+            content: "";
+            position: absolute;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625307725/Snacknation/Home-redesign/Team-after.svg);
+            width: 111px;
+            height: 103px;
+            top: -71px;
+            right: -110px;
+        }
+        .product-info .info-inner .info-row.left-img .info-text {
+            order: 1;
+        }
+        .product-info .info-inner .info-row.left-img .info-img {
+            order: 0;
+            margin-top: 0px;
+            margin-left: -20px;
+            margin-right: 0;
+        }
+        .product-info .info-inner .info-row.left-img .info-text h2 {
+            margin-top: 18px;
+        }
+        .product-info .info-inner .info-row.left-img .info-text .info-col {
+            margin-top: 22px;
+        }
+        .product-info .info-inner .info-row.left-img .img-before {
+            width: 341px;
+            left: calc(78%);
+            bottom: -85px;
+        }
+        .product-info .info-inner .info-row.left-img .img-before::after {
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625310452/Snacknation/Home-redesign/latop-before.svg);
+            width: 178px;
+            height: 160px;
+            top: -127px;
+            right: auto;
+            left: -179px;
+        }
+        .product-info .info-inner .info-row.left-img:before {
+            content: "";
+            position: absolute;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/info-before-2.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            bottom: -151px;
+            right: auto;
+            width: 723px;
+            height: 501px;
+            left: 0;
+        }
+        .product-info .info-inner .info-row.info-row-2 {
+            margin-bottom: 226px;
+        }
+        .product-info .info-inner .info-row.info-row-3 .info-img {
+            max-width: 523px;
+            width: 100%;
+            margin-top: -7px;
+            margin-right: 0;
+        }
+        .product-info .info-inner .info-row.info-row-3 h2 {
+            margin-bottom: 30px;
+        }
+        .product-info .info-inner .info-row.info-row-3 .info-text {
+            padding-left: 20px;
+            padding-top: 37px;
+            padding-right: 10px;
+        }
+        .product-info .info-inner .info-text ul .info-col .text a {
+            color: #365ABD;
+            text-decoration: underline;
+            transition: 0.4s all;
+        }
+        .product-info .info-inner .info-text ul .info-col .text a:hover,
+        .product-info .info-inner .info-text ul .info-col .text a:active{
+            color: #1940AB;
+        }
+        .product-info .info-inner .info-row.info-row-3 ul .info-col .text {
+            max-width: 450px;
+        }
+        .product-info .info-inner .info-row.info-row-3 ul .info-col{
+            margin-top: 27px;
+        }
+        .product-info .info-inner .info-row.info-row-3 .img-before {
+            width: 286px;
+            left: calc(-42%);
+            bottom: -116px;
+        }
+        .product-info .info-inner .info-row.info-row-3 .img-before::after {
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625313042/Snacknation/Home-redesign/DiscoveryBox-before.svg);
+            width: 166px;
+            height: 143px;
+            top: -110px;
+            right: -165px;
+        }
+        .product-info .info-inner .info-row.info-row-3:after {
+            content: "";
+            position: absolute;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/info-before-3.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            bottom: -151px;
+            right: 0;
+            left: auto;
+            width: 739.08px;
+            height: 614.54px;
+        }
+        @media(max-width: 1400.98px){
+            .product-info .info-inner .info-col {
+                max-width: 1130px;
+            }
+            .product-info .info-inner .info-row.info-row-3:after{
+                width: 670px;
+                height: 565px;
+            }
+            .product-info .info-inner .info-row.info-row-1:after{
+                width: 624px;
+                height: 435px;
+            }
+            .product-info .info-inner .info-row.left-img:before{
+                width: 623px;
+                height: 431px;
+            }
+        }
+        @media(max-width: 1199.98px){
+            .product-info .info-inner .info-row.info-row-3 h2{
+                margin-bottom: 26px;
+            }
+            .product-info .info-inner .info-row.info-row-3:after{
+                bottom: auto;
+                top: -54px;
+                height: 551px;
+                width: 662px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-3:after{
+                top: -7px;
+                height: 514px;
+                width: 618px;
+            }
+            .product-info .info-inner .info-row.info-row-3 .info-text{
+                padding-top: 31px;
+                padding-right: 10px;
+                padding-left: 0;
+            }
+            .product-info .info-inner .info-row.info-row-3 .info-img{
+                max-width: 100%;
+            }
+            .product-info .info-inner .info-row-3 .info-col .info-img .img-before{
+                right: 21px;
+                bottom: -25px;
+                width: 354px;
+            }
+            .product-info .info-inner .info-row.info-row-3 .info-img img{
+                max-width: 539px;
+            }
+            .product-info .info-inner .info-row.info-row-2 {
+                margin-bottom: 76px;
+            }
+            .product-info .info-inner .info-row.left-img:before{
+                bottom: auto;
+                top: -60px;
+                width: 670px;
+                height: 464px;
+            }
+            .product-info.for-remote .info-inner .info-row.left-img.info-row-2:before{
+                width: 709px;
+                height: 485px;
+                left: -40px;
+            }
+            .product-info.for-office .info-inner .info-row.left-img:before{
+                top: -70px;
+            }
+            .snacknation_home .product-info .info-inner .info-row-3 .info-col .info-img img{
+                margin-left: 0;
+            }
+            .snacknation_home .product-info .info-inner .info-row-3 .info-col .info-img img {
+                max-width: 545px;
+            }
+            .product-info .info-inner .info-row.info-row-1:after{
+                bottom: auto;
+                width: 716px;
+                height: 501px;
+                top: 90px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-1:after{
+                width: 650px;
+                height: 452px;
+                top: 70px;
+            }
+            .product-info .info-inner .info-row.left-img .info-col .info-img .img-before::after,.product-info .info-inner .info-row.info-row-3 .info-col .info-img .img-before::after{
+                background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625477168/Snacknation/Home-redesign/latop-before-768.svg);
+                background-repeat: no-repeat;
+            }
+            .product-info .info-inner .info-row.info-row-3 .info-col .info-img .img-before::after{
+                left: -139px;
+                top: -84px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-3 .info-col .info-img .img-before::after{
+                left: -119px;
+                top: -85px;
+                width: 119px;
+            }
+            .product-info .info-inner .info-row.left-img .info-col .info-img .img-before::after{
+                top: -84px;
+                left: -137px;
+            }
+            .product-info .info-inner .info-row.left-img .img-before {
+                width: 337px;
+                padding: 8px 22px;
+            }
+            .product-info .info-inner .left-img .info-col .info-img .img-before{
+                right: 18px;
+                bottom: -35px;
+            }
+            .product-info.for-office .info-inner .left-img .info-col .info-img .img-before{
+                bottom: 8px;
+            }
+            .product-info .info-inner .info-row {
+                margin-bottom: 65px;
+            }
+            .product-info .info-inner .info-row.left-img .info-text{
+                margin-top: 20px;
+            }
+            .product-info.for-office .info-inner .info-row.left-img .info-text{
+                margin-top: 8px;
+            }
+            .product-info .info-inner .info-row.left-img .info-text h2 {
+                margin-top: 1px;
+            }
+            .product-info.for-office .info-inner .info-row.left-img .info-text h2{
+                padding-top: 0px;
+            }
+            .snacknation_home .product-info .info-inner .left-img .info-col .info-img img{
+                margin-left: 0px;
+                margin-top: 20px;
+                max-width: 540px; 
+            }
+            .snacknation_home .product-info.for-office .info-inner .info-row-2.left-img .info-col .info-img img{
+                margin-top: 0;
+                max-width: 575px;
+            }
+            .product-info .info-inner .info-row.info-row-3 ul .info-col .text{
+                max-width: 468px;
+                margin-right: auto;
+                margin-left: 19px;
+            }
+            .product-info .info-inner .info-col {
+                max-width: 720px;
+            }
+            .product-info .info-inner .info-text h2 {
+                font-size: 40px;
+                max-width: 530px;
+                margin-bottom: 32px;
+            }
+            .product-info .info-inner .info-col .info-img .img-before{
+                left: auto;
+                right: 0;
+                bottom: 4px;
+            }
+            .product-info .info-inner .info-col .info-img {
+                max-width: 100%;
+                margin-left: 0px;
+                margin-top: 0px;
+            }
+            .snacknation_home .product-info .info-inner .info-col .info-img img{
+                max-width: 580px;
+                margin-left: -20px;
+                margin-top: -10px;
+            }
+            .product-info .info-inner .info-text ul .info-col{
+                align-items: flex-start;
+                margin-top: 24px;
+                flex-wrap:inherit;
+            }
+            .product-info .info-inner .info-col{
+                flex-wrap: wrap;
+            }
+            .product-info .info-inner .info-col .info-text{
+                order: 2;
+                margin-top: 18px;
+                max-width: 100%;
+            }
+            .product-info .info-inner .info-col .info-img .img-before::after{
+                background-image:url(//res.cloudinary.com/spiralyze/image/upload/v1625477168/Snacknation/Home-redesign/Team-after-768.svg);
+                background-repeat: no-repeat;
+                left: -111px;
+            }
+        }
+        @media(max-width: 767.98px){
+            .product-info.for-remote .info-inner .info-row.left-img.info-row-2:before{
+                top: -42px;
+                width: 478px;
+                height: 325px;
+            }
+            .product-info.for-office .info-inner .info-row.left-img .info-text h2 {
+                padding-top: 60px;
+            }
+            .product-info.for-office .info-inner .left-img .info-col .info-img .img-before{
+                bottom: -37px;
+            }
+            .snacknation_home .product-info.for-office .info-inner .info-row-2.left-img .info-col .info-img img{
+                max-width: 373px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-3 .info-col .info-img .img-before::after{
+                left: -35px;
+                top: -61px;
+                height: 95px;
+                width: 35px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-1:after{
+                width: 373px;
+                height: 261px;
+                top: 110px;
+            }
+            .product-info.for-remote .info-inner .info-row-1 .info-img .img-before{
+                right: -15px;
+            }
+            .product-info .info-inner .info-col .info-img .img-before::after,
+            .product-info .info-inner .info-row.left-img .info-col .info-img .img-before::after,
+            .product-info .info-inner .info-row.info-row-3 .info-col .info-img .img-before::after{
+                background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625634184/Snacknation/Home-redesign/latop-before-375.png);
+                background-repeat: no-repeat;
+                left: -35px;
+                width: 35px;
+                height: 96px;
+                background-size: cover;
+                top: -57px;
+            }
+            .product-info .info-inner .info-row.left-img .info-col .info-img .img-before::after{
+                height: 115px;
+                top: -84px;
+            }
+            .snacknation_home .product-info.for-remote .info-inner .left-img .info-col .info-img img{
+                margin-left: 0;
+                max-width:343px;
+                margin-top: 10px;
+            }
+            .product-info.for-remote .info-inner .left-img .info-col .info-img .img-before{
+                left: auto;
+                width:299px;
+                right:0px;
+            }
+            .product-info.for-remote .info-inner .info-row-1 .info-col li.info-col{
+                flex-wrap: initial;
+            }
+            body.snacknation_home .product-info .info-inner .info-text ul .info-col .text{
+                margin-left: 15px;
+            }
+            .product-info.for-remote .info-inner .info-row-1 .info-text h2{
+                padding-top:55px;
+            }
+            .product-info.for-remote .info-inner .info-row-1 .info-img .img-before{
+                bottom: -6px;
+                max-width: 329px;
+                padding: 8px 10px;
+                right: -15px;
+            }
+            .product-info .info-inner .info-row.info-row-3 ul .info-col {
+                margin-top: 13px;
+            }
+            .product-info .info-inner .info-row.left-img .info-img{
+                margin-left: 0;
+            }
+            .product-info .info-inner .info-text ul .info-col .text{
+                font-size: 14px;
+                line-height: 21px;
+            }
+            .product-info.for-remote .info-inner .info-text ul .info-col .text{
+                font-size: 18px;
+                line-height: 28px;
+            }
+            .product-info .info-inner .info-col .info-img .img-before{
+                right: -15px;
+                bottom: -34px;
+                max-width: 327px;
+                font-size: 14px;
+                line-height: 21px;
+                padding: 8px 10px;
+            }
+            .product-info .info-inner .info-text h2{
+                font-size: 32px;
+                line-height: 40px;
+                padding-top: 40px;
+                margin-bottom: 23px;
+            }
+            .product-info .info-inner .info-col {
+                max-width: 343px;
+            }
+            .snacknation_home .product-info .info-inner .info-col .info-img img {
+                max-width: 371px;
+                margin-left: -14px;
+                margin-top: -10px;
+            }
+            .product-info .info-inner .info-text ul .info-col{
+                margin-top: 16px;
+            }
+            .snacknation_home .product-info .info-inner .left-img .info-col .info-img img{
+                margin-left: -14px;
+            }
+            .snacknation_home .product-info.for-office .info-inner .left-img .info-col .info-img img{
+                max-width: 373px;
+            }
+            .product-info .info-inner .info-row {
+                margin-bottom: 80px;
+            }
+            .product-info .info-inner .left-img .info-col .info-img .img-before{
+                width: 269px;
+                padding: 8px 8px;
+                right: -15px;
+                bottom: -33px;
+            }
+            .product-info.for-remote .info-inner .left-img .info-col .info-img .img-before{
+                padding: 8px 6px;
+            }
+            .product-info .info-inner .info-row.left-img .info-text .info-col {
+                margin-top: 14px;
+            }
+            .product-info .info-inner .info-row.info-row-1:after{
+                top: 110px;
+                width: 373px;
+                height: 261px;
+            }
+            .product-info .info-inner .info-row.left-img:before{
+                width: 418px;
+                height: 288px;
+                top: -56px;
+            }
+            .product-info.for-office .info-inner .info-row.left-img:before{
+                width: 918px;
+                height: 340px;
+                top: -86px;
+            }
+            .product-info .info-inner .info-row.info-row-2 {
+                margin-bottom: 66px;
+            }
+            .snacknation_home .product-info .info-inner .info-row-3 .info-col .info-img img {
+                max-width: 345px;
+            }
+            .product-info .info-inner .info-row-3 .info-col .info-img .img-before{
+                right: -15px;
+                bottom: -24px;
+                width: 219px;
+            }
+            .product-info .info-inner .info-row.info-row-3:after{
+                width: 359px;
+                height: 299px;
+                top: -38px;
+            }
+            .product-info .info-inner .info-row.info-row-3 h2{
+                padding-top: 0px;   
+                margin-bottom: 23px;
+            }
+            .product-info .info-inner .info-row.info-row-3 ul .info-col .text{
+                margin-left: 13px;
+            }
+            .product-info .info-inner .info-row.info-row-3 .info-text{
+                padding-left: 0;
+                padding-right: 0;
+            }
+            .product-info.for-office .info-inner{
+                margin-top: -105px;
+            }
+        }
+        @media(max-width: 374.98px){
+            .snacknation_home .product-info.for-office .info-inner .info-row-2.left-img .info-col .info-img img{
+                max-width: 100%;
+            }
+            .product-info .info-inner .info-col .info-img .img-before::after,
+            .product-info .info-inner .info-row.left-img .info-col .info-img .img-before::after,
+            .product-info .info-inner .info-row.info-row-3 .info-col .info-img .img-before::after{
+                left: -25px;
+                width: 25px;
+                height: 76px;
+                top: -50px;
+            }
+             .snacknation_home .product-info .info-inner .left-img .info-col .info-img img{
+                margin-left: 0px;
+                max-width:100%;
+            }
+            .product-info .info-inner .info-row > .info-col{
+                padding: 0px 15px;
+            }
+            .snacknation_home .product-info .info-inner .info-col .info-img img{
+                max-width: 320px;
+            }
+            .product-info .info-inner .info-col .info-img .img-before{
+                max-width: 297px;
+            }
+            .product-info .info-inner .info-text h2 {
+                font-size: 28px;
+                line-height: 37px;
+            }
+        }
+        
+        /*product info end*/
+
+        /*office section*/
+        .office-section .office-inner {
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/Happier-bg.png);
+            background-size: cover;
+            margin-top: 73px;
+        }
+        .office-section .office-inner .office-row {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-end;
+        }
+        .office-section .office-inner .office-col {
+            max-width: 60.5%;
+            width: 100%;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/Happier-col-bg.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            padding: 148px 120px 148px 139px;
+        }
+        .office-section .office-inner h2 {
+            font-weight: 800;
+            font-size: 40px;
+            line-height: 50px;
+            color: #2E2E33;
+            margin-bottom: 24px;
+            max-width: 611px;
+            width: 100%;
+        }
+        .office-section .office-inner .sub-heading {
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 28px;
+            color: #2E2E33;
+            margin-bottom: 36px;
+            padding-bottom: 0;
+            max-width: 615px;
+            width: 100%;
+        }
+        .office-section .office-inner .office-btn a {
+            background: #365ABD;
+            border-radius: 40px;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 56px;
+            text-transform: capitalize;
+            color: #FFFFFF;
+            display: inline-block;
+            padding: 0 30px;
+            margin-bottom: 20px;
+            transition: 0.4s all;
+        }
+        .office-section .office-inner .office-btn a:hover,
+        .office-section .office-inner .office-btn a:active{
+            background: #1940AB;
+        }
+        .office-section .office-inner .btn-subtext {
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 26px;
+            color: #2E2E33;
+            max-width: 305px;
+            width: 100%;
+            padding-bottom: 0;
+        }
+        @media(min-width: 2550.98px){
+            .office-section .office-inner .office-col{
+                padding: 250px 120px 250px 250px;
+            }
+        }
+        @media(max-width: 1400.98px){
+            .office-section .office-inner .office-col {
+                max-width: 760px;
+                padding: 130px 70px 120px 119px;
+            }
+            .office-section .office-inner{
+                background-position-x: center;
+            }
+        }
+        @media(max-width: 1199.98px){
+            body.snacknation_home .office-section .office-row img.tab-img{
+                display: block;
+                width: 100%;
+            }
+            body.snacknation_home .office-section .office-inner{
+                background-image: none;
+                margin-top: 0px;
+            }
+            body.snacknation_home .office-section .office-inner .office-col{
+                max-width: 100%;
+                background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625488142/Snacknation/Home-redesign/Happier-col-bg-768.png);
+                background-repeat: no-repeat;
+                margin-top: -52px;
+                padding: 124px 20px 76px 24px;
+                z-index: 99;
+                position: relative;
+            }
+            .office-section .office-inner .office-row{
+                display: block;
+            }
+            .office-section .office-inner h2{
+                max-width: 711px;
+            }
+            .office-section .office-inner .sub-heading{
+                max-width: 100%;
+            }
+        }
+        @media(min-width: 826.98px) and (max-width:1199.98px){
+            body.snacknation_home .office-section .office-inner .office-col{
+                margin-top: -92px;
+            }
+        }
+        @media(max-width: 767.98px){
+            .office-section .office-inner .office-row{
+                display: block;
+            }
+            body.snacknation_home .office-section .office-inner h2{
+                font-size: 32px;
+                line-height: 40px;
+                margin-bottom: 22px;
+            }
+            body.snacknation_home .office-section .office-inner .sub-heading{
+                margin-bottom: 24px;
+            }
+            body.snacknation_home .office-section .office-inner{
+                margin-top: 0px;
+            }
+            body.snacknation_home .office-section .office-inner .office-col{
+                background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625595180/Snacknation/Home-redesign/Quiz-bg-375.jpg.png);
+                margin-top:-28px;
+                padding: 60px 15px 54px 15px;
+                position: relative;
+                z-index: 99;
+            }
+        }
+        @media(min-width: 450.98px) and (max-width: 767.98px){
+            body.snacknation_home .office-section .office-inner .office-col{
+                margin-top: -55px;
+            }
+        }
+        /*office section end*/
+
+
+        /*review section*/
+        .review-section .review-inner {
+            text-align: center;
+            padding-top: 97px;
+            padding-bottom: 112px;
+        }
+        .review-section .review-inner h2 {
+            font-weight: 800;
+            font-size: 40px;
+            line-height: 50px;
+            color: #2E2E33;
+            margin-bottom: 24px;
+        }
+        .review-section .review-inner p {
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 34px;
+            color: #676767;
+            padding-bottom: 0;
+            margin-bottom: 50px;
+        }
+        .review-section .review-inner .review-row {
+            max-width: 1025px;
+            width: 100%;
+            margin: auto;
+            padding: 0px;
+            position: relative;
+        }
+        .review-section .review-inner .slider-count {
+            max-width: 721px;
+            position: absolute;
+            left: auto;
+            right: 0;
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            top: 0px;
+            z-index: 2000;
+        }
+        .review-section .review-inner .slider-count .quote-img {
+            max-width: 72px;
+            width: 100%;
+        }
+        .review-section .review-inner .slider-count .slide-count {
+            max-width: 185px;
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .review-section .review-inner .slider-count .arrow {
+            max-width: 17px;
+            width: 100%;
+            cursor: pointer;
+            transition: all 0.3s;
+            -webkit-transition: all 0.3s;
+        }
+        .review-section .review-inner .slider-count .arrow:hover{
+            opacity: 0.6;
+        }
+        .review-section .review-inner .slider-count .slick-next.arrow {
+            transform: rotate(180deg);
+        }
+        .review-section .review-inner .count .active {
+            font-weight: bold;
+            font-size: 24px;
+            line-height: 34px;
+            color: #2E2E33;
+        }
+        .review-section .review-inner .count .total {
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 28px;
+            color: #676767;
+        }
+        .review-section .review-inner .review-row .slick-list {
+            overflow: hidden;
+            width: 100%;
+        }
+        .review-section .review-inner .review-row .review-col {
+            display: flex !important;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .review-section .review-inner .slick-slide {
+            float: left;
+            height: 100%;
+            min-height: 1px;
+        }
+        .review-section .review-inner .review-img {
+            max-width: 264px;
+            width: 100%;
+        }
+        .review-section .review-inner .review-text {
+            max-width: 721px;
+            width: 100%;
+            margin-top: 80px;
+            text-align: left;
+        }
+        .review-section .review-inner .review-text .user-review {
+            font-weight: normal;
+            font-size: 24px;
+            line-height: 34px;
+            color: #2E2E33; 
+            margin-bottom: 25px;  
+            min-height: 102px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            letter-spacing: -0.09px;
+        }
+        .review-section .review-inner .last-review-col .review-text .user-review{
+            letter-spacing: normal;
+        }
+        .review-section .review-inner .user-info {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .review-section .review-inner .user-info h4 {
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 28px;
+            text-transform: uppercase;
+            color: #676767;
+            margin-bottom: 0;
+        }
+        .review-section .review-inner .user-info p {
+            font-weight: normal;
+            font-size: 18px;
+            line-height: 28px;
+            margin-bottom: 0;
+        }
+        .review-section .review-inner .user-logo {
+            max-width: 140px;
+            width: 100%;
+        }
+        .review-section .review-inner .user-logo.nyle-logo{
+            max-width:120px;
+        }
+        .review-section .review-inner .user-info.user-mobile{
+            display: none;
+        }
+        .review-section .review-inner .user-logo.collab-logo{
+            max-width: 126px;
+        }   
+        .review-section .review-inner .user-logo.pax-logo{
+            max-width:110px;
+        }
+        @media(max-width: 1199.98px){
+            .review-section .review-inner .user-logo {
+                max-width: 120px;
+            }
+             .review-section .review-inner .review-img{
+                max-width: 226px;
+            }
+            .review-section .review-inner .user-info .user-name{
+                margin-bottom: 24px;
+            }
+            .review-section{
+                display: none;
+            }
+            .review-section .review-inner .review-row{
+                max-width: 720px;
+            }
+            .review-section .quote-img{
+                display: none;
+            }
+            .review-section .review-inner .slider-count{
+                bottom: -43px;
+                top: auto;
+                display: flex;
+                justify-content: center;
+            }
+            .review-section .review-inner .user-info.user-mobile{
+                display: block;
+                margin-left: 29px;
+                max-width: 50%;
+            }  
+            .review-section .review-inner .user-info{
+                display: none;
+            } 
+            .review-section .review-inner .review-row .review-col{
+                justify-content: stretch;
+                align-items: center;
+            }
+            .review-section .review-inner .user-info h4{
+                text-align: left;
+            }
+            .review-section .review-inner .review-text .user-review{
+                position: relative;
+            }
+            .review-section .review-inner .review-text .user-review:before{
+                content: "";
+                position: absolute;
+                left: 0;
+                top: -43px;
+                background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625460782/Snacknation/Home-redesign/quote.png);
+                background-repeat: no-repeat;
+                width: 52px;
+                height: 36px;
+                background-size: cover;
+            }
+            .review-section .review-inner .review-text{
+                margin-top: 95px;
+            }
+            .review-section .review-inner .slider-count .arrow{
+                font-size: 24px;
+            }
+            .review-section .review-inner .user-info p{
+                text-align: left;
+            }
+        }
+        @media(max-width: 767.98px){
+             .review-section .review-inner .user-info p{
+                text-align: center;
+            }
+            .review-section .review-inner .user-info.user-mobile{
+                max-width: 100%;
+            }
+            .review-section .review-inner .user-logo{
+                max-width: 110px;
+            }
+            .review-section .review-inner .slider-count .slide-count {
+                max-width: 160px;
+            }
+            .review-section .review-inner .slider-count .arrow{
+                max-width: 12px;
+            }
+            .review-section .review-inner .count .active{
+                font-size: 20px;
+                line-height: 34px;
+            }
+            .review-section .review-inner{
+                padding-top:52px;
+                max-width: 343px;
+                margin: 0 auto;
+            }
+            .review-section .review-inner h2{
+                font-size: 32px;
+                line-height: 40px;
+                margin-bottom: 16px;
+            }
+            .review-section .review-inner p{
+                font-size: 18px;
+                line-height: 28px;
+                margin-bottom: 32px;
+            }
+            .review-section .review-inner .review-row .review-col{
+                justify-content: center;
+            }
+            .review-section .review-inner .user-info h4{
+                text-align: center;
+            }
+            .review-section .review-inner .user-info .user-name{
+                margin-bottom: 16px;
+                margin-top: 32px;
+            }
+            .review-section .review-inner .user-logo{
+                margin: 0 auto;
+            }
+            .review-section .review-inner .review-text .user-review:before{
+                width: 37px;
+                height: 25px;
+                top: -40px;
+            }
+            .review-section .review-inner .review-text {
+                margin-top: 80px;
+            }
+            .review-section .review-inner .user-info.user-mobile{
+                margin-left: 0;
+            }
+        }
+        @media(max-width: 374.98px){
+            .review-section .review-inner{
+                padding: 52px 15px 100px;
+            }
+        }
+        /*review section end*/
+
+
+
+        /*Counter section*/
+        .counter-section .counter-inner {
+            background-color: #2cd5c4;
+            padding-top: 77px;
+            padding-bottom: 114px;
+        }
+        .counter-section .counter-inner .counter-row {
+            max-width: 1200px;
+            width: 100%;
+            margin: auto;
+            text-align: center;
+        }
+        .counter-section .counter-inner .counter-row img{
+            margin: 0 auto;
+        }
+        .counter-section .counter-inner .counter-row h4 {
+            font-size: 28px;
+            line-height: 34px;
+            color: #ffffff;
+            text-align: center;
+            font-weight: 800;
+            letter-spacing: 0.005em;
+            margin-top: 10px;
+            margin-bottom: 0px;
+        }
+        .counter-section .counter-inner .counter-row h2 {
+            font-size: 150px;
+            color: #ffffff;
+            line-height: 180px;
+            text-align: center;
+            font-weight: 800;
+            margin-bottom: 0px;
+        }
+        .counter-section .counter-inner .counter-row h3 {
+            font-size: 28px;
+            line-height: 38px;
+            color: #ffffff;
+            text-align: center;
+            font-weight: bold;
+        }
+        .counter-section .counter-inner .counter-row p {
+            color: #ffffff;
+            text-align: center;
+            margin-top: 35px;
+            padding-bottom: 0;
+        }
+        @media(max-width: 1400.98px){
+            .counter-section .counter-inner .counter-row h2 {
+                font-size: 140px;
+            }
+        }
+        @media (max-width: 1199.98px){
+            .counter-section .counter-inner .counter-row p{
+                margin-top: 33px;
+                padding-left: 5px;
+                padding-right: 5px;
+            }
+            .counter-section .counter-inner{
+                padding-top: 30px;
+                padding-bottom: 39px;
+            }
+            .counter-section .counter-inner .counter-row {
+                max-width: 630px;
+            }
+            .counter-section .counter-inner .counter-row h4{
+                font-size: 23px;
+                line-height: 31px;
+                margin-top: 17px;
+                margin-bottom: 0px;
+            }
+            .counter-section .counter-inner .counter-row h2 {
+                font-size: 36px;
+                line-height: 55px;
+                margin-bottom: 0px;
+            }
+            .counter-section .counter-inner .counter-row h3 {
+                font-size: 23px;
+            }
+        }
+        @media (max-width: 767.98px){
+            .counter-section .counter-inner .counter-row {
+                max-width: 343px;
+            }
+            .counter-section .counter-inner .counter-row p{
+                font-size: 18px;
+                line-height: 24px;
+                max-width: 327px;
+                margin: 33px auto 0px;
+            }
+            .counter-section .counter-inner {
+                padding-top: 12px;
+                padding-bottom: 25px;
+            }
+            .counter-section .counter-inner .counter-row h4{
+                max-width: 324px;
+                width: 100%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+        @media (max-width: 374.98px){
+            .counter-section .counter-inner .counter-row{
+                padding: 0px 15px;
+            }
+        }
+
+        /*Counter section end*/
+
+        /*Product Box Section*/
+        .product-box .product-box-inner {
+            margin-top: -40px;
+            margin-bottom: 113px;
+        }
+        .product-box .box-row {
+            max-width: 1155px;
+            width: 100%;
+            margin: 0 auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .product-box .box-row .box-col {
+            max-width: 373px;
+            width: 100%;
+            background: #FFF0F3;
+            border-radius: 20px;
+            padding: 40px 30px 42px;
+        }
+        .product-box .box-row .box-col.box-col-2{
+            background: #EDFCFA;
+        }
+        .product-box .box-row .box-col.box-col-3{
+            background: #FFF8E9;
+        }
+        .product-box .box-row h2 {
+            font-weight: 800;
+            font-size: 24px;
+            line-height: 30px;
+            text-align: center;
+            color: #3464B5;
+            margin-bottom: 0px;
+        }
+        .product-box .box-row .box-col .product-box-img {
+            margin: 20px -10px 18px -10px;
+        }
+        .product-box .box-row .box-col-1 .product-box-img {
+            margin: 20px -10px 18px -37px;
+        }
+        .product-box .box-row .product-box-price p {
+            font-weight: 600;
+            line-height: 30px;
+            color: #666666;
+            text-align: center;
+            padding: 0;
+        }
+        .product-box .box-row .product-box-price span {
+            font-weight: 800;
+            font-size: 24px;
+            line-height: 30px;
+            color: #3464B5;
+            margin-left: 2px;
+        }
+        .product-box .box-row .product-box-price {
+            margin-bottom: 19px;
+        }
+        .product-box .box-row .product-box-btn {
+            border-bottom: 1px solid #fff;
+            padding-bottom: 6px;
+        }
+        .product-box .box-row .product-box-btn a {
+            display: block;
+            width: 313px;
+            background: #FB637E;
+            border-radius: 40px;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 56px;
+            text-align: center;
+            color: #FFFFFF;
+            transition: 0.4s all;
+        }
+        .product-box .box-row .product-box-btn a:hover{opacity: 0.87;}
+        .product-box .box-row .box-col-2 .product-box-btn a{background: #47DACB;}
+        .product-box .box-row .box-col-3 .product-box-btn a{background: #FFB81C;}
+        .product-box .box-row .product-box-btn p {
+            font-weight: normal;
+            font-size: 14px;
+            line-height: 20px;
+            text-align: center;
+            color: #666666;
+            margin-top: 15px;
+        }
+        .product-box .box-row .box-text {
+            font-weight: 600;
+            line-height: 30px;
+            text-align: center;
+            color: #666666;
+            margin-top: 15px;
+            padding-bottom: 0;
+        }
+        .product-box .box-row .product-box-btn span{
+            text-align: center;
+            width: 100%;
+            display: inline-block;
+            font-size: 13px;
+            line-height: 18px;
+            margin-top: 10px;
+        }
+        @media (max-width: 1400.98px){
+            .product-box .box-row {
+                max-width: 1130px;
+            }
+            .product-box .box-row .box-col {
+                max-width: 360px;
+            }
+        }
+        @media (max-width: 1199.98px){
+            .product-box-img .box-col-1 img{
+                max-width: 100%;
+            }
+            .product-box .box-row .box-col.box-col-3{
+                margin-top: 30px;
+            }
+            .product-box-img img {
+                max-width: 308px;
+                margin: 0 auto;
+                height: 308px;
+            }
+            .box-col-1 .product-box-img img{
+                max-width: 100%;
+            }
+            .product-box .box-row .box-col {
+                max-width: 352px;
+                padding: 42px 20px 42px;
+            }
+            .product-box .product-box-inner {
+                margin-top: 103px;
+                margin-bottom: 43px;
+            }
+            .product-box .box-row {
+                max-width: 720px;
+                justify-content: center;
+            }
+            .product-box .box-row .product-box-price {
+                margin-bottom: 19px;
+                margin-top: 30px;
+            }
+            .product-box .box-row .box-col.box-col-1{
+                margin-right: 6px;
+            }
+            .product-box .box-row .box-col.box-col-2{
+                margin-left: 6px;
+            }
+        }
+        @media (max-width: 767.98px){
+            .product-box .box-row .box-col.box-col-3 {
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+            .product-box .box-row .box-col{
+                padding: 42px 20px 40px;
+                margin-bottom: 24px;
+            }
+            .product-box .box-row .box-col.box-col-1 {
+                margin-right: 0;
+            }
+            .product-box .box-row .box-col.box-col-2 {
+                margin-left: 0;
+            }
+            .product-box .product-box-inner {
+                margin-top: 56px;
+            }
+            .product-box .box-row .box-text{
+                font-size: 18px;
+                line-height: 30px;
+            }
+            .product-box .box-row{
+                max-width: 375px;
+            }
+        }
+        @media (max-width: 374.98px){
+            .product-box .box-row{
+                padding: 0 15px;
+            }
+            .product-box-img img{
+                height: 248px;
+            }
+            .product-box .box-row .product-box-btn a{
+                width: 100%;
+            }
+        }
+        /*Product Box Section End*/
+        /*footer section*/
+        @media (max-width: 1400.98px){
+            .snacknation_home #footer-outer .container{
+                max-width: 1130px;
+                padding: 0 0;
+            }
+        }
+        /*@media (max-width: 1199.98px){
+            .snacknation_home #footer-outer .container{
+                max-width: 980px;
+                padding: 0 0;
+            }
+        }*/
+        @media (max-width: 1199.98px){
+            .snacknation_home #footer-outer .container{
+                max-width:598px;
+            }
+            .snacknation_home #footer-outer .row {
+                padding: 55px 0 16px;
+            }
+            .snacknation_home #footer-outer a, #footer-outer p{
+                display: inline-block;
+                line-height: 26px;
+            }
+            .snacknation_home #footer-widgets .container .col {
+                margin-bottom: 23px;
+            }
+            body.snacknation_home .container-wrap{
+                padding-bottom: 0px;
+            }
+        }
+        @media (max-width: 767.98px){
+            .snacknation_home #footer-outer .container {
+                max-width: 318px;
+            }
+            .snacknation_home #footer-outer .row {
+                padding: 38px 0 10px;
+            }
+        }
+        @media (max-width: 374.98px){
+            .snacknation_home #footer-outer .row{
+                padding: 38px 15px 10px;
+            }
+            .snacknation_home #footer-outer .container{
+                padding: 0px 15px;
+            }
+        }
+        /*footer section end*/
+
+        /* for remote Desing All Css  */
+
+        /* product section  */
+        .product-section.product-one .product-inner .container{
+            max-width: 1220px;
+        }
+        .product-section.product-one .product-inner {
+            margin-bottom: 0;
+            padding-top: 76px;
+            margin-top: 20px;
+        }
+        .product-section.product-one .product-inner::before{
+            height: calc(100% - 137px);
+        }
+        .product-section.product-one .product-inner::after{
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/product-section-before.png);
+            height: 285px;
+            bottom: -148px;
+        }
+        .product-section.for-remote .product-inner h2 {
+            max-width: 60%;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 36px;
+            line-height: 46px;
+            margin-bottom: 15px;
+        }
+        .product-section.for-remote .product-inner p {
+            max-width: 600px;
+            margin: 0 auto 28px;
+        }
+        .product-section.product-one .product-inner .product-ul .product-li{
+            max-width: 376px;
+            margin-right: 46px;
+        }
+        .product-section.for-remote .product-inner .product-ul .product-li img {
+            margin: 0;
+            max-width: 100%;
+        }
+        .product-section.product-one .product-inner .product-ul .product-li:nth-child(3n){
+            margin-right: 0px;
+        }
+        .product-section.for-remote .product-inner .product-ul .product-li p {
+            margin: 12px auto 0px;
+        }
+        .product-section.for-remote .product-inner .product-ul .product-li .sub-text {
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 28px;
+            color: #676767;
+            margin-top: 11px;
+            max-width: 358px;
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .product-section.product-one .product-inner .product-btn {
+            margin-top: 30px;
+        }
+        @media(min-width: 1700.98px){
+            .product-section.product-one .product-inner::after {
+                height: 385px;
+                bottom: -180px;
+            }
+            .product-section.product-one .product-inner::before {
+                height: calc(95% - 137px);
+            }
+        }
+        @media(min-width: 1440.98px){
+            .product-section.product-one .product-inner::before {
+                height: calc(95% - 97px);
+            }
+            .product-section.product-one .product-inner::after {
+                height: 385px;
+                bottom: -221px;
+            }
+        }
+        @media(max-width: 1400.98px){
+            .product-section.product-one .product-inner .product-ul .product-li{
+                max-width: 340px;
+                margin-bottom: 30px;
+            }
+        }
+        @media(max-width: 1199.98px){
+            .product-section.product-one .product-inner .product-ul .product-li,
+            .product-section.product-one .product-inner .product-ul .product-li:nth-child(3n) {
+                max-width: 310px;
+                margin-bottom: 12px;
+                margin-right: 85px;
+            }
+            .product-section.product-one .product-inner .product-ul .product-li:nth-child(2n) {
+                margin-right: 0px;
+            }
+            .product-section.for-remote .product-inner h2{
+                max-width: 90%;
+                margin-bottom: 23px;
+            }
+            .product-section.product-one .product-inner{
+                padding-top: 64px;
+            }
+            .product-section.for-remote .product-inner p{
+                margin: 0 auto 16px;
+            }
+            .product-section.for-remote .product-inner .product-ul .product-li p {
+                margin: 0px auto 0px;
+            }
+            .product-section.for-remote.product-two .product-inner .product-ul .product-li p{
+                margin: 20px auto 0px;
+            }
+            .product-section.for-remote .product-inner .product-ul .product-li .sub-text{
+                margin-top: 7px;
+            }
+            .product-section.for-remote.product-one .product-btn {
+                margin-top: 41px;
+                padding-bottom: 110px;
+            }
+            .product-section.for-remote .product-inner{
+                padding-top: 64px;
+                /*margin-top: 64px;*/
+            }
+            .product-section.product-one.for-remote .product-inner::after{
+                background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625632651/Snacknation/Home-redesign/product-before-768.png);
+            }
+            .product-section.for-remote.product-two .product-inner{
+                padding-top: 0;
+                margin-top: 59px;
+                margin-bottom: 70px;
+            }
+        }
+        @media(max-width: 767.98px){
+            .product-section.for-remote.product-two .product-inner .product-ul .product-li p {
+                margin: 15px auto 0px;
+            }
+            .product-section.for-remote.product-one .product-btn{
+                margin-top: 20px;
+                padding-bottom: 120px;
+            }
+            .product-section.for-remote .product-inner {
+                padding-top: 56px;
+                /*margin-top: 62px;*/
+            }
+            .product-section.for-remote .product-inner h2{
+                font-size: 32px;
+                line-height: 40px;
+                max-width:100%;
+            }
+            .product-info.for-remote .info-inner .info-row-1 .info-col .info-img .img-before::after{
+                background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625633884/Snacknation/Home-redesign/Team-after-375.png);
+                left: -18px;
+                width: 30px;
+                height: 97px;
+            }
+        }
+        @media(max-width: 374.98px){
+            .product-info.for-remote .info-inner .info-row-1 .info-col .info-img .img-before::after{
+                left: -8px;
+                width: 20px;
+                height: 63px;
+            }
+        }
+
+        /* product section end */
+
+        /* product section Two */
+        .product-section.product-two {
+            margin-top: -51px;
+        }
+        .product-section.product-two .product-inner {
+            margin-bottom: 150px;
+            padding-top: 73px;
+        }
+        .product-section.product-two .product-inner::before,
+        .product-section.product-two .product-inner::after{
+            display: none;
+        }
+        .product-section.product-two .product-inner p{
+            margin: 0 auto 82px;
+        }
+        .product-section.product-two .product-ul .product-li {
+            max-width: 240px;
+            margin-right: 92px;
+            margin-bottom: 20px;
+        }
+        .product-section.product-two .product-inner .product-ul .product-li img {
+            max-width: 230px;
+            margin: auto;
+        }
+        .product-section.product-two .product-btn{
+            margin-top: 42px;
+        }
+        @media(max-width: 1400.98px){
+            .product-section.product-two .product-ul .product-li{
+                margin-right: 51px;
+                margin-bottom: 25px;
+            }
+            .product-section.product-one .product-inner::after {
+                bottom: -170px;
+            }
+            .product-section.product-one .product-inner::before {
+                height: calc(100% - 115px);
+            }   
+        }
+        @media(max-width: 1199.98px){
+            .product-section.product-two .product-ul .product-li:nth-child(3n){
+                margin-right: 0px;
+            }
+            .product-section.product-two .product-inner p {
+                margin: 0 auto 25px;
+            }
+            .product-section.for-remote.product-two .product-inner .product-ul {
+                max-width: 720px;
+                justify-content: center;
+            }
+            .product-section.product-two .product-ul .product-li {
+                margin-right: 0px;
+                margin-bottom: 34px;
+            }
+            .product-section.product-two .product-btn {
+                margin-top: 27px;
+            }
+            .product-info.for-remote .info-inner .left-img .img-before{
+                left: calc(68%);
+            }
+            .product-section.product-one .product-inner .container{
+                max-width: 720px;
+            }
+            body.snacknation_home .product-info .info-inner .info-text ul .info-col .text{
+                max-width: 660px;
+            }
+            body.snacknation_home .product-info.for-office .info-inner .info-row-3 .info-text ul .info-col .text{
+                max-width: 470px;
+            }
+            .product-section.product-two .product-inner .product-ul .product-li img{
+                max-width: 207px;
+            }
+        }
+        @media(max-width: 767.98px){
+            .product-section.product-two {
+                margin-top: -85px;
+            }
+            .product-section.product-one .product-inner .container{
+                max-width:343px;
+            }
+            .product-section.product-one .product-inner .product-ul .product-li, .product-section.product-one .product-inner .product-ul .product-li:nth-child(3n){
+                max-width:163px;
+                margin-bottom: 20px;
+                margin-right: 0px
+            }
+            .product-section.for-remote .product-inner .product-ul .product-li .sub-text{
+                font-size: 14px;
+                line-height: 21px;
+            }
+            .product-section.for-remote .product-btn {
+                margin-top: 25px;
+            }
+            .product-section.for-remote.product-two .product-inner .product-ul .product-li img {
+                max-width: 168px;
+                margin: auto;
+            }
+            .product-section.for-remote.product-two .product-ul .product-li {
+                max-width: 175px;
+            }
+            .product-section.product-two .product-inner p{
+                max-width: 343px;
+            }
+        }
+        @media(max-width: 374.98px){
+            .product-section.for-remote .product-inner h2{
+                font-size: 28px;
+                line-height: 36px;
+            }
+            .product-section.product-one .product-inner .product-ul .product-li, .product-section.product-one .product-inner .product-ul .product-li:nth-child(3n){
+                max-width: 135px;
+            }
+            .product-section .product-inner .product-btn p{
+                font-size: 16px;
+            }
+            .product-section.for-remote.product-two .product-inner .product-ul .product-li img{
+                max-width: 125px;
+            }
+            .product-section.for-remote.product-two .product-ul .product-li{
+                max-width: 145px;
+            }
+            .product-section .product-inner .product-ul .product-li p {
+                font-size: 16px;
+            }
+        }
+        /* product section Two end */
+
+        /* product-info */
+        .product-info.for-remote .info-inner {
+            margin-top: -52px;
+        }
+        .product-info.for-remote .info-text h2 {
+            margin-bottom: 16px;
+        }
+        .product-info.for-remote .info-inner .info-text ul .info-col .text{
+             max-width: 481px;
+        }
+        .product-info.for-remote .info-inner .info-row-1 ul {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .product-info.for-remote .info-inner .info-row-1 .info-col:nth-child(1){order: 0;}
+        .product-info.for-remote .info-inner .info-row-1 .info-col:nth-child(2){order: 2;}
+        .product-info.for-remote .info-inner .info-row-1 .info-col:nth-child(3){order: 1;}
+        .product-info.for-remote .info-inner .info-row-1 .info-col{
+            align-items: center;
+        }
+        .product-info.for-remote .info-inner .info-row-1 .info-col li.info-col {
+            align-items: self-start;
+        }
+        .product-info.for-remote .info-inner .info-row.info-row-1:after {
+            bottom: -287px;
+        }
+        .product-info.for-remote .info-inner .info-row-1 .info-img .img-before {
+            left: calc(-37%);
+            padding: 8px 22px;
+            bottom: -88px;
+        }
+        .product-info.for-remote .info-inner .info-row {
+            margin-bottom: 131px;
+        }
+        .product-info.for-remote .info-inner .left-img .info-text h2 {
+            margin-top: 34px;
+            margin-bottom: 31px;
+        }
+        .product-info.for-remote .info-inner .left-img .info-img {
+            margin-left: 0;
+            max-width: 540px;
+        }
+        .product-info.for-remote .info-inner .left-img .img-before {
+            padding: 8px 18px;
+            width: 364px;
+            left: calc(80%);
+            bottom: -90px;
+        }
+        .product-info.for-remote .info-inner .info-row-3 {
+            margin-top: 212px;
+        }
+        .product-info.for-remote .info-inner .info-row.info-row-3 .info-text {
+            padding-left: 0px;
+            padding-top: 26px;
+            padding-right: 10px;
+        }
+        .product-info.for-remote .info-inner .info-row.info-row-3 ul .info-col .text {
+            max-width: 470px;
+        }
+        .product-info.for-remote .info-inner .info-row.info-row-3 ul .info-col {
+            margin-top: 21px;
+        }
+        .product-info.for-remote .info-inner .info-row.info-row-3 .info-img {
+            max-width: 585px;
+            width: 100%;
+            margin-top: -7px;
+            margin-right: 0;
+        }
+        .product-info.for-remote .info-inner .info-row.info-row-3:after{
+            bottom: -132px;
+        }
+        .product-info.for-remote .info-inner .info-row.info-row-3 .img-before {
+            width: 471px;
+            left: calc(-56% - 2px);
+            bottom: -131px;
+        }
+        .product-info.for-remote .info-inner .info-row.info-row-3 .img-before::after{
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625488292/Snacknation/Home-redesign/info-before.svg);
+            width: 180px;
+            height: 172px;
+            top: -130px;
+            right: -152px;
+        }
+        @media(max-width: 1400.98px){
+            .product-info.for-remote .info-inner .info-row.info-row-3 .info-img{
+                max-width: 515px;
+                margin-top: 38px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-1:after{
+                bottom: -235px;
+            }
+        }
+        @media(max-width: 1199.98px){
+            .product-info.for-remote .info-inner .info-row-1 .info-img .img-before{
+                left: auto;
+                right: 0;
+                bottom: 4px;
+                max-width: 481px;
+            }
+            .product-info.for-remote .info-inner .info-row{
+                margin-bottom: 60px;
+            }
+            .product-info.for-remote .info-inner .left-img .img-before{
+                left: calc(64%);
+                width: 362px;
+            }
+            .product-info.for-remote .info-inner .info-row-3{
+                margin-top: 74px;
+                margin-bottom: 0px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-3 .info-img{
+                max-width: 100%;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-3 .img-before {
+                width: 395px;
+                left: auto;
+                bottom: -56px;
+                right: 0;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-3 h2{
+                margin-top: 40px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-3 ul .info-col .text{
+                max-width: 660px;
+            }
+            .product-info.for-remote .info-inner{
+                margin-top: -22px;
+            }
+             .snacknation_home .product-info .info-inner .info-row-3 .info-col .info-img img.mobile-img{
+                display: block;
+            }
+        }
+        @media(max-width: 767.98px){
+            .product-info.for-remote .info-inner .info-row-1 .info-img .img-before{
+               max-width: 329px;
+                padding: 8px 10px;
+                bottom: -41px;
+                right: 0;
+            }
+            .product-info.for-remote .info-inner .left-img .info-text h2{
+                margin-top: 5px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-3:after{
+                top: 70px;
+                height: 299px;
+                width: 359px;
+            }
+            .product-info.for-remote .info-inner .info-row-3 {
+                margin-top: 15px;
+            }
+            .product-info.for-remote .info-inner .info-row-2.left-img.info-row{
+                margin-bottom: 0px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-3 .img-before{
+                width: 295px;
+                bottom: -90px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-3 h2 {
+                margin-top: 80px;
+            }
+            .product-info.for-remote{
+                padding-top: 40px;
+            }
+        }
+        @media screen and (min-width:1023.98px) and (max-width:1199.98px){
+            .product-info.for-remote .info-inner .info-row.info-row-3:after{
+                top: -37px;
+                height: 574px;
+                width: 678px;
+            }
+            .product-info.for-remote .info-inner .info-row.info-row-1:after{
+                width: 730px;
+                height: 510px;
+                top: 60px;
+            }
+            .product-info.for-remote .info-inner .info-row.left-img.info-row-2:before{
+                width: 800px;
+                height: 554px;
+                top: -92px;
+            }
+            .product-info .info-inner .info-row.info-row-1:after{
+                width: 780px;
+            }
+            .product-info .info-inner .info-row.left-img:before{
+                width: 740px;
+                height: 514px;
+                top: -120px;
+            }
+            .product-info .info-inner .info-row.info-row-3:after{
+                height: 601px;
+                width: 715px;
+                top: -84px;
+            }
+        }
+        @media(max-width: 374.98px){
+            .snacknation_home .product-info.for-remote .info-inner .left-img .info-col .info-img img,
+            .snacknation_home .product-info .info-inner .info-row-3 .info-col .info-img img{
+                max-width: 100%;
+            }
+            .product-info.for-remote .info-inner .left-img .info-col .info-img .img-before,
+            .product-info.for-remote .info-inner .info-row.info-row-3 .img-before{
+                width: 269px;
+            }
+        }
+        /* product-info end */
+
+        /* office section */
+        .office-section.for-remote .office-inner {
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/Remote-bg.png);
+            margin-top: 0px;
+        }
+        .office-section.for-remote .office-inner .office-col {
+            max-width: 54.584%;
+            padding: 127px 120px 119px 133px;
+        }
+        @media(min-width: 2550.98px){
+            .office-section.for-remote .office-inner .office-col{
+                padding: 250px 120px 250px 250px;
+            }
+        }
+        @media(max-width: 1400.98px){
+            .office-section.for-remote .office-inner .office-col{
+                padding: 127px 50px 119px 100px;
+            }
+        }
+        /* office section end*/
+
+        /* Quiz CSS */
+        .quiz-section.for-remote {
+            position: relative;
+        }
+        .quiz-section.for-remote::before {
+            content: "";
+            position: absolute;
+            width: 100%;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/Quiz-bg-before-new.png);
+            height: 252px;
+            background-size: 100%;
+            background-repeat: no-repeat;
+            top: 73px;
+        }
+        .quiz-section.for-remote::after{
+            content: "";
+            position: absolute;
+            width: 100%;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/Quiz-bg-after.png);
+            height: 82.5%;
+            bottom: 0;
+        }
+        .quiz-section .quiz-inner {
+            padding-top: 230px;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/Quiz-bg.jpg);
+            background-size: 974px;
+            background-position: right bottom;
+            padding-bottom: 102px;
+            background-repeat: no-repeat;
+            position: relative;
+            z-index: 2;
+        }
+        .quiz-section .quiz-inner .quiz-row {
+            max-width: 1150px;
+            width: 100%;
+            margin: 0 auto;
+        }
+        .quiz-section .quiz-inner .quiz-col {
+            max-width: 491px;
+            width: 100%;
+            position: relative;
+        }
+        .quiz-section .quiz-inner .quiz-col::before {
+            content: "";
+            position: absolute;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/quiz-before.png);
+            background-size: cover;
+            width: 308.57px;
+            height: 308.57px;
+            left: -10px;
+            top: -10px;
+        }
+        .quiz-section .quiz-inner .quiz-col::after {
+            content: "";
+            position: absolute;
+            background-image: url(//res.cloudinary.com/spiralyze/image/upload/f_auto/Snacknation/Home-redesign/quiz-after.png);
+            background-size: cover;
+            width: 382px;
+            height: 382px;
+            left: -180px;
+            top: auto;
+            bottom: -60px;
+        }
+        .quiz-section .quiz-inner .quiz-col h2 {
+            font-weight: 800;
+            font-size: 40px;
+            line-height: 50px;
+            text-transform: capitalize;
+            color: #2E2E33;
+            margin-bottom: 47px;
+            position: relative;
+            z-index: 2;
+        }
+        .quiz-section .quiz-inner ul {
+            margin: 0;
+            position: relative;
+            z-index: 2;
+        }
+        .quiz-section .quiz-inner ul .quiz-li {
+            background: #FFFFFF;
+            box-shadow: -0.922932px 1.84586px 7.38346px rgba(0, 0, 0, 0.1);
+            border-radius: 13.844px;
+            padding: 26.77px 21.22px 26.77px 28.61px;
+            margin-bottom: 29px;
+            list-style: none;
+        }
+        .quiz-section .quiz-inner ul .quiz-li .number {
+            font-weight: bold;
+            font-size: 22px;
+            line-height: 25px;
+            color: #365ABD;
+            display: flex;
+            flex-wrap: wrap;
+            width: 100%;
+            align-items: center;
+            margin-bottom: 24px;
+        }
+        .quiz-section .quiz-inner ul .quiz-li .number h3 {
+            background: #365ABD;
+            border-radius: 1.84586px 9.22932px;
+            width: 51px;
+            height: 51px;
+            display: inline-block;
+            text-align: center;
+            line-height: 51px;
+            font-weight: bold;
+            font-size: 22.1504px;
+            color: #FFFFFF;
+            margin-right: 15px;
+            margin-bottom: 0;
+        }
+        .quiz-section .quiz-inner ul .quiz-li .number span {
+            max-width: 332px;
+            width: 100%;
+            display: inline-block;
+        }
+        .quiz-section .quiz-inner ul .quiz-li p {
+            font-weight: normal;
+            font-size: 16px;
+            line-height: 24px;
+            padding-bottom: 0;
+        }
+        .quiz-section .quiz-inner ul .quiz-li p a {
+            color: #365ABD;
+            text-decoration: underline;
+            transition: 0.4s all;
+        }
+        .quiz-section .quiz-inner ul .quiz-li p a:hover,
+        .quiz-section .quiz-inner ul .quiz-li p a:active{
+            color: #1940AB;
+        }
+        .quiz-section .quiz-inner ul .quiz-li.li-2 .number {
+            color: #47DACB;
+        }
+        .quiz-section .quiz-inner ul .quiz-li.li-2 .number h3 {
+            background: #47DACB;
+        }
+        .quiz-section .quiz-inner ul .quiz-li.li-3 .number {
+            color: #FFB81C;
+        }
+        .quiz-section .quiz-inner ul .quiz-li.li-3 .number h3 {
+            background: #FFB81C;
+        }
+        .quiz-section .quiz-inner .quiz-col .quiz-btn {
+            text-align: center;
+            margin-top: 58px;
+            position: relative;
+            z-index: 2;
+        }
+        .quiz-section .quiz-inner .quiz-col .quiz-btn a {
+            background: #365ABD;
+            border-radius: 40px;
+            font-weight: bold;
+            font-size: 16px;
+            line-height: 56px;
+            text-align: center;
+            text-transform: capitalize;
+            color: #FFFFFF;
+            max-width: 200px;
+            width: 100%;
+            display: inline-block;
+            transition: 0.4s all;
+        }
+        .quiz-section .quiz-inner .quiz-col .quiz-btn a:hover{
+            background: #1940AB;
+        }
+        .snacknation_home #footer-outer{
+            position: absolute;
+            bottom: 0px;
+            width: 100%;
+            left: 0;
+        }
+        .snacknation_home .blurred-wrap{
+            padding-bottom:66px;
+        }
+        .snacknation_home #footer-outer.opened{
+            position: relative;
+        }
+        .snacknation_home .blurred-wrap.opened{
+            padding-bottom: 0;
+        }
+        @media(min-width: 1600.98px){
+            .quiz-section.for-remote::before{
+                top: 45px;
+            }
+        }
+        @media(max-width: 1400.98px){
+            .quiz-section .quiz-inner{
+                background-size: 890px;
+            }
+        }
+        @media(max-width: 1199.98px){       
+            .quiz-section.for-remote::after{
+                height: 88.5%;
+            }
+            .quiz-section .quiz-inner .quiz-row{
+                max-width: 768px;
+            }
+            .quiz-section .quiz-inner .quiz-col{
+                max-width: 100%;
+            }
+            .quiz-section .quiz-inner{
+                background-image:none;
+                padding-top: 190px;
+                padding-bottom: 71px;
+            }
+            .quiz-section .quiz-inner .quiz-col{
+                max-width: 720px;
+                margin: 79px auto 0px;
+            }
+            .snacknation_home .quiz-row .tab-img{
+                display: block;
+            }
+            .quiz-section.for-remote::before{
+                top: 71px;
+                background-image: url(//res.cloudinary.com/spiralyze/image/upload/v1625644993/Snacknation/Home-redesign/Quiz-bg-before-new-768.png);
+            }
+            .quiz-section .quiz-inner .quiz-col .quiz-btn{
+                margin-top:35px;
+            }
+            .quiz-section .quiz-inner ul .quiz-li .number span{
+                max-width: 425px;
+            }
+            .quiz-section .quiz-inner ul .quiz-li{
+                padding: 24px;
+            }
+            .quiz-section .quiz-inner .quiz-col::after{
+                left: -90px;
+                bottom: -35px;
+            }
+            .quiz-section .quiz-inner .quiz-col::before{
+                width: 218px;
+                height: 218px;
+                top: 30px;
+                left: -42px;
+            }
+            .quiz-section .quiz-inner ul .quiz-li p{
+                min-height: 50px;
+            }
+        }
+        @media(min-width: 991px) and (max-width: 1023.98px){
+            .snacknation_home header#top .col_last li.menu-item.button_solid_color_2 a{
+                padding-left: 12px !important;
+                padding-right: 12px !important;
+            }
+        }
+        @media screen and (min-width: 1024.98px) and (max-width: 1199.98px){
+            .quiz-section.for-remote::after{
+                height: 85.5%;
+            }
+        }
+        @media screen and (min-width: 1000.98px) and (max-width: 1199.98px){
+            #copyright .span_5{
+                width: 47.5%;
+            }
+            #copyright .span_7{
+                width: 50%;
+            }
+        }
+        @media(min-width: 550.98px) and (max-width: 767.98px){
+            .quiz-section.for-remote::before{
+                top: 45px;
+            }
+        }
+        @media only screen and (min-width: 690px) and (max-width:767px){
+            .snacknation_home #footer-outer .one-fourths.span_3, .snacknation_home #footer-outer .one-fourths.vc_span3, .snacknation_home #footer-outer .one-fourths.vc_col-sm-3:not([class*="vc_col-xs-"]) {
+                width: 100%!important;
+                padding: 0;
+                margin-right: 0;
+            }
+            .snacknation_home #footer-outer #copyright .col {
+                width: 100%;
+                margin-bottom: 25px;
+            }
+            .snacknation_home #footer-outer #copyright li:first-child{
+                margin-left: 0px;
+            }
+            .snacknation_home #footer-outer #copyright .col ul{
+                float: left;
+            }
+        }
+        @media(max-width: 767.98px){
+            #footer-outer #copyright .col{
+                margin-bottom: 0;
+            }
+            #footer-outer.opened #copyright .col{
+                margin-bottom: 25px;
+            }
+            .quiz-section .quiz-inner ul .quiz-li .number{
+                margin-bottom: 18px;
+            }
+            .quiz-section .quiz-inner .quiz-col::before{
+                left: -32px;
+                top: 37px;
+                width: 258px;
+                height: 258px;
+            }
+            .quiz-section .quiz-inner .quiz-col .quiz-btn a{
+                max-width: 100%;
+            }
+            .quiz-section .quiz-inner{
+                padding-top: 130px;
+                padding-bottom:80px;
+            }
+            .quiz-section .quiz-inner .quiz-col {
+                max-width: 343px;
+                margin: 65px auto 0px;
+            }
+            .quiz-section .quiz-inner .quiz-col h2{
+                margin-bottom: 24px;
+                font-size: 32px;
+                line-height: 40px;
+            }
+            .quiz-section .quiz-inner ul .quiz-li{
+                padding: 24px 16px;
+            }
+            .quiz-section .quiz-inner ul .quiz-li .number span{
+                margin-top: 16px;
+            }
+            .quiz-section .quiz-inner .quiz-col::after{
+                bottom: 30px;
+                left: -68%;
+            }
+        }
+        @media(max-width: 782.98px){
+            .snacknation_home #footer-outer{
+                position: relative;
+            }
+            .snacknation_home .blurred-wrap{
+                padding-bottom: 0;
+            }
+        }
+        @media(max-width: 374.98px){
+            .quiz-section.for-remote::before{
+                top: 50px;
+            }
+            .quiz-section .quiz-inner{
+                padding-top: 100px;
+            }
+            .quiz-section .quiz-inner .quiz-col{
+                padding: 0 15px;
+            }
+        }
+        @media(min-width: 2029.98px){
+           .office-section.for-remote .office-inner .office-col{
+             padding: 150px 120px 150px 133px;
+           } 
+           .office-section.for-remote .office-inner{
+                background-position: center;
+            }
+        }
+        @media(min-width: 2560.98px){
+            .quiz-section .quiz-inner{
+                background-position-x: 63%;
+            }
+        }
+        @media(min-width: 3500.98px){
+            .quiz-section .quiz-inner{
+                background-position-x: 56%;
+            }
+            .office-section.for-remote .office-inner .office-col{
+                padding: 300px 120px 300px 250px;
+            }
+        }
+        @media(min-width:999.98px){
+            #slide-out-widget-area-bg,#slide-out-widget-area{
+                display: none !important;
+            }
+            body .blurred-wrap.blurred{
+                -webkit-filter: blur(0px);
+                -moz-filter: blur(0px);
+                -ms-filter: blur(0px);
+                filter: blur(0px);
+            }
+        }
+        /*Quiz CSS end*/
+
+        /* for remote Desing All Css end  */
+        @media (-ms-high-contrast: active), (-ms-high-contrast: none) {
+            .hero-section,.product-info,.product-box{
+                overflow: hidden;
+           }
+           .product-box{
+                padding-top: 50px;
+                margin-top: -40px;
+           }
+        }
